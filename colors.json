@@ -1,8 +1,7 @@
-{ "headerBackground": "#8E44AD"
-, "headerText": "#0000AA"
-, "sidebarBackground": "#16A085"
-, "sidebarText": "#AA0000"
-, "postBackground": "#3498DB"
+{ "headerBackground": "#694AE2"
+, "headerText": "#000000"
+, "sidebarBackground": "#000000"
+, "sidebarText": "#FFFFFF"
+, "postBackground": "#05A8AA"
 , "postText": "#004400"
 }
-
