@@ -33,7 +33,7 @@ colours.
 
 Video on lighting by Ryan King:
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/JJV8l6MaXxA&t=161s">
+src="https://www.youtube.com/embed/JJV8l6MaXxA">
 </iframe>
 
 
