@@ -33,7 +33,7 @@ newtype About =
 
 derive newtype instance DecodeJson About
 
-getAbout :: Aff (Maybe About) 
+getAbout :: Aff (Maybe About)
 getAbout = either (const Nothing) (\r -> either (const Nothing) identity (decodeJson r.body)) <$> get json "/about.json"
 
 
@@ -56,7 +56,7 @@ handleAction :: Action -> H.HalogenM State Action Slots BlogPost Aff Unit
 handleAction Initialize = do
   links <- H.liftAff getLinks
   H.modify_ (\st -> st { links = links })
-handleAction (GoToPost post) = H.raise post 
+handleAction (GoToPost post) = H.raise post
 
 type Slots :: forall k. Row k
 type Slots = ()
@@ -66,12 +66,12 @@ render { posts, links, about } = HH.div
   [ style do
       padding (em 0.0) (em 1.0) (em 0.0) (em 1.0)
   ]
-  [ header about 
-  , profilePicture about 
+  [ -- header about,
+   profilePicture about 
   , blurb about
   , renderLinks links
   , HH.h4 [] [ HH.text "Posts" ]
-  , recentPosts posts 
+  , recentPosts posts
   ]
 
 
@@ -86,21 +86,21 @@ recentPosts content =
                ] [ HH.h4_ [ HH.text title ] ]
         ]
 
-header :: forall a b. About -> HH.HTML a b 
+header :: forall a b. About -> HH.HTML a b
 header (About about) =
   HH.h4_
     [ HH.text about.header
     ]
 
-blurb :: forall a b. About -> HH.HTML a b 
+blurb :: forall a b. About -> HH.HTML a b
 blurb (About about) =
   HH.div_
     [ HH.p_
-        [ HH.text about.blurb 
+        [ HH.text about.blurb
         ]
     ]
 
-profilePicture :: forall a b. About -> HH.HTML a b 
+profilePicture :: forall a b. About -> HH.HTML a b
 profilePicture (About { profileImage }) =
   HH.div
     [ style do
@@ -112,8 +112,8 @@ profilePicture (About { profileImage }) =
         [ style do
             width (px 200.0)
             height (px 200.0)
-        , HP.src profileImage 
-        ] 
+        , HP.src profileImage
+        ]
     ]
 
 newtype Link =
@@ -131,14 +131,14 @@ getLinks = either (const []) (\r -> either (const []) identity (decodeJson r.bod
 renderLinks :: forall a b. Array Link -> HH.HTML a b
 renderLinks links = HH.div_ (renderLink <$> links)
 
-renderLink :: forall a b. Link -> HH.HTML a b 
+renderLink :: forall a b. Link -> HH.HTML a b
 renderLink (Link { name, href, text }) =
   HH.div
     [
     ]
     [ HH.p
         [ style do
-            fontSize (pt 10.0) 
+            fontSize (pt 10.0)
             margin (px 0.0) (px 0.0) (px 0.0) (px 10.0)
         ]
         [ HH.text name ]
@@ -153,4 +153,3 @@ renderLink (Link { name, href, text }) =
             ]
         ]
     ]
-
