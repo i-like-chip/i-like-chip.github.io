@@ -9,7 +9,7 @@ import Blog.Post (BlogPost(..), getPostList)
 import Blog.Post as BlogPost
 import Blog.SideBar (About(..), getAbout)
 import Blog.SideBar as SideBar
-import CSS (absolute, backgroundColor, column, display, flex, flexDirection, flexGrow, fontFamily, fromHexString, left, margin, maxHeight, minHeight, padding, pct, position, px, relative, row, top, width)
+import CSS (absolute, backgroundColor, color, column, display, flex, flexDirection, flexGrow, fontFamily, fromHexString, left, margin, maxHeight, minHeight, padding, pct, position, px, relative, row, top, width)
 import CSS.Font (monospace)
 import Code.Highlight (highlightAll)
 import Color as Color
@@ -94,9 +94,12 @@ _content = Proxy :: Proxy "content"
 
 newtype Colors =
   Colors {
-    header :: String
-  , sidebar :: String
-  , post :: String
+    headerBackground :: String
+  , headerText :: String
+  , sidebarBackground :: String
+  , sidebarText :: String
+  , postBackground :: String
+  , postText :: String
   }
 
 derive newtype instance DecodeJson Colors
@@ -104,9 +107,12 @@ derive newtype instance DecodeJson Colors
 defaultColors :: Colors
 defaultColors =
   Colors {
-    header: "#8E44AD"
-  , sidebar: "#16A085"
-  , post: "#3498DB"
+    headerBackground: "#8E44AD"
+  , headerText: "#000000"
+  , sidebarBackground: "#16A085"
+  , sidebarText: "#000000"
+  , postBackground: "#3498DB"
+  , postText: "#000000"
   }
 
 getColors :: Aff Colors 
@@ -130,7 +136,8 @@ render { content, selected, about, colors } =
   ]
   [ HH.div
       [ style do
-          backgroundColor (maybe Color.white identity (fromHexString colors.header)) 
+          backgroundColor (maybe Color.white identity (fromHexString colors.headerBackground)) 
+          color (maybe Color.black identity (fromHexString colors.headerText))  
       ]
       [ case about of
           Nothing -> HH.div_ []
@@ -148,7 +155,8 @@ render { content, selected, about, colors } =
           [ style do
               flexGrow 4.0
               width (pct 70.0)
-              backgroundColor (maybe Color.white identity (fromHexString colors.post)) 
+              backgroundColor (maybe Color.white identity (fromHexString colors.postBackground)) 
+              color (maybe Color.white identity (fromHexString colors.postText)) 
           ]
           [ case selected of
               Nothing ->
@@ -161,7 +169,8 @@ render { content, selected, about, colors } =
           [ style do
               flexGrow 1.0
               width (pct 30.0)
-              backgroundColor (maybe Color.white identity (fromHexString colors.sidebar)) 
+              backgroundColor (maybe Color.white identity (fromHexString colors.sidebarBackground)) 
+              color (maybe Color.black identity (fromHexString colors.sidebarText)) 
           ]
           [ case about of
               Nothing -> HH.div_ []
