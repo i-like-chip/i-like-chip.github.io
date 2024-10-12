@@ -6,7 +6,7 @@ from watchfiles import awatch
 import subprocess
 
 # change these to whatever
-hostName = "192.168.1.165"
+hostName = "localhost"
 serverPort = 8080
 
 async def index_handler(_):
@@ -24,6 +24,8 @@ async def about_handler(_):
 async def colors_handler(_):
     return web.Response(text=io.open("./colors.json").read(), content_type="application/json")
 
+async def image_handler(request):
+    return web.FileResponse(path="./images/{}".format(request.match_info['name']))
 
 async def links_handler(_):
     return web.Response(text=io.open("./links.json").read(), content_type="application/json")
@@ -71,7 +73,7 @@ def create_runner():
         web.get('/links.json', links_handler),
         web.get('/about.json', about_handler),
         web.get('/colors.json', colors_handler),
-
+        web.get('/images/{name}', image_handler),
         web.get('/posts/{name}', post_handler),
         web.get('/ws', websocket_handler),
     ])
@@ -91,4 +93,3 @@ if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(start_server())
     loop.run_forever()
-

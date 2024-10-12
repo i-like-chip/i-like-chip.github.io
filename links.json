@@ -1,5 +1,9 @@
 [ { "name": "github"
   , "href": "https://github.com/pla-linguine"
   , "text": "github.com/pla-linguine"
+  },
+  { "name": "thingiverse"
+  , "href": "https://www.thingiverse.com/pla-linguine/designs"
+  , "text": "thingiverse.com/pla-linguine"
   }
 ]

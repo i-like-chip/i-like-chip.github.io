@@ -1,5 +1,13 @@
-[{ "title": "First Post"
- , "date": "2024-10-12"
- , "post": "2024-10-12-First-Post.md"
- }
+[ { "title": "Blender Day 3/100 - Bits"
+  , "date": "17-08-2024"
+  , "post": "Day-3.md"
+  },
+ { "title": "Blender Day 2/100 - Spinning Space"
+  , "date": "17-08-2024"
+  , "post": "Day-2.md"
+  },
+ { "title": "Blender Day 1/100 - A Simple Box"
+  , "date": "16-08-2024"
+  , "post": "2024-10-12-First-Post.md"
+  }
 ]
