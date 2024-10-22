@@ -16,3 +16,5 @@ James Webb telescope.
 ![box image](./images/day-2.2-jamy-webb.png)
 
 I think I'll get better results another way, but these videos were a good test and will be useful placeholders.
+
+<div style="height: 1em"> </div>
