@@ -8,16 +8,15 @@ Please use the post links in the sidebar to navigate this website, and through t
 
 <div style="height: 1em"> </div>
 
-### Computers need chips...
+### Computers need chips...and so do i.
 
-![computers](/images/i-like-computers.JPEG)
+![computers](/images/i-like-computers-and-fries.JPEG)
 
 <div style="height: 1em"> </div>
 
-### ...and so do i.
-
-![fries](/images/eating-fries.JPEG)
-
+Thanks for checking out my website,  
+Dee
+<div style="height: 1em"> </div>
 <div style="height: 1em"> </div>
 
 #### Artist credits:  
