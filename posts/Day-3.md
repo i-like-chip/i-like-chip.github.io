@@ -7,7 +7,7 @@ colour to ‘Image texture’ before
 selecting the video made earlier.
 
 Video on this by TLDStudios:
-<iframe width="420" height="315"
+<iframe width="1000" height="315"
 src="https://www.youtube.com/embed/ssnJ8yewQ2A">
 </iframe>
 
