@@ -7,13 +7,13 @@ side window of a spaceship.
 
 ![spin video](./images/day-2.0-star-spin.png)
 
-![stars](./images/day-2.1-star-spin.png)
+![spin video](./images/day-2.1-star-spin.png)
 
 I repeated the process with a very
 high resolution image from the
 James Webb telescope.
 
-![james webb](.images/day-2.2-james-webb.png)
+![james webb](./images/day-2.2-james-webb.png)
 
 I think I'll get better results another way, but these videos were a good test and will be useful placeholders.
 

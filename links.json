@@ -1,9 +1,13 @@
 [ { "name": "github"
-  , "href": "https://github.com/pla-linguine"
+  ,"href": "https://github.com/pla-linguine"
   , "text": "github.com/pla-linguine"
   },
   { "name": "thingiverse"
   , "href": "https://www.thingiverse.com/pla-linguine/designs"
   , "text": "thingiverse.com/pla-linguine"
+  },
+  { "name": "tip jar"
+  , "href": "https://paypal.me/ilikechip?country.x=GB&locale.x=en_GB"
+  , "text": "paypal.me/ilikechip"
   }
 ]

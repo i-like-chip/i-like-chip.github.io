@@ -17,7 +17,7 @@ to prevent light reflecting off the
 video surface. Placed the plane
 outside the ‘window’ of the box.
 
-![scene](/images/day-3.1.png)
+![scene](/images/day-3.1.PNG)
 
 <div style="height: 1em"> </div>
 
