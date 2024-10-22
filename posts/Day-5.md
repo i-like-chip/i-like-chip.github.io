@@ -4,8 +4,8 @@ video [‘Modelling in Blender for
 complete beginners,’](https://www.youtube.com/embed/8VmXzjgWQEg) to learn how
 to make more complex shapes.    
 
-
-#### Here's what I made:
+<div style="height: 1em"> </div>
+Here's what I made:
 
 Used a torus to make a window frame, then sculpted a window seat from a cube.
 
