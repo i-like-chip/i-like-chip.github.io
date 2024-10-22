@@ -8,7 +8,7 @@ Please use the post links in the sidebar to navigate this website, and through t
 
 <div style="height: 1em"> </div>
 
-### Computers need chips...and so do i.
+### Computer need chip...and so do I.
 
 ![computers](/images/i-like-computers-and-fries.JPEG)
 
