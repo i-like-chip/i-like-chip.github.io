@@ -5,15 +5,15 @@ This resulted in a feeling of moving
 through space, like looking out a
 side window of a spaceship.
 
-![box image](./images/day-2.0-star-spin.png)
+![spin video](./images/day-2.0-star-spin.png)
 
-![box image](./images/day-2.1-star-spin.png)
+![stars](./images/day-2.1-star-spin.png)
 
 I repeated the process with a very
 high resolution image from the
 James Webb telescope.
 
-![box image](./images/day-2.2-jamy-webb.png)
+![james webb](.images/day-2.2-james-webb.png)
 
 I think I'll get better results another way, but these videos were a good test and will be useful placeholders.
 
