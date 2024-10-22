@@ -1,4 +1,4 @@
-[ { "title": "Welcome"
+[ { "title": "hello"
  , "date": "=]"
  , "post": "Welcome.md"
  },
@@ -10,7 +10,7 @@
   , "date": "17-08-2024"
   , "post": "Day-2.md"
   },
- { "title": "Blender Day 1/100 - A Simple Box"
+ { "title": "Blender Day 1/100 - Getting Started"
   , "date": "16-08-2024"
   , "post": "Day-1.md"
   }
