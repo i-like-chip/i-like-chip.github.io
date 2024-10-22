@@ -1,12 +1,13 @@
 #### Video on a Plane
 
-![plane](/images/Blender-Day-3.0.png)
-
 Created a plane and changed the
 colour to ‘Image texture’ before
 selecting the video made earlier.
 
+![plane](/images/day-3.0.png)
+
 Video on this by TLDStudios:
+
 <iframe width="1000" height="315"
 src="https://www.youtube.com/embed/ssnJ8yewQ2A">
 </iframe>
@@ -16,7 +17,7 @@ to prevent light reflecting off the
 video surface. Placed the plane
 outside the ‘window’ of the box.
 
-![scene](/images/Blender-Day-3.1.png)
+![scene](/images/day-3.1.png)
 
 <div style="height: 1em"> </div>
 
@@ -28,14 +29,16 @@ played around with lighting and
 colours.
 
 
-![rug and plant](/images/Blender-Day-3.2.png)
+![rug and plant](/images/day-3.2.JPEG)
 
 
 Video on lighting by Ryan King:
-<iframe width="420" height="315"
+
+<iframe width="1000" height="315"
 src="https://www.youtube.com/embed/JJV8l6MaXxA">
 </iframe>
 
+<div style="height: 1em"> </div>
 
 
 

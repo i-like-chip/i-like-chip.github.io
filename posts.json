@@ -2,8 +2,20 @@
  , "date": "=]"
  , "post": "hello.md"
  },
- { "title": "Blender Day 3/100 - Bits"
-  , "date": "17-08-2024"
+ { "title": "Blender Day 6/100 - Assets and Textures"
+  , "date": "21-08-2024"
+  , "post": "Day-6.md"
+  },
+ { "title": "Blender Day 5/100 - Spaceship Assets"
+  , "date": "20-08-2024"
+  , "post": "Day-5.md"
+  },
+ { "title": "Blender Day 4/100 - A Scene from Scratch"
+  , "date": "19-08-2024"
+  , "post": "Day-4.md"
+  },
+ { "title": "Blender Day 3/100 - Video Plane & Lights"
+  , "date": "18-08-2024"
   , "post": "Day-3.md"
   },
  { "title": "Blender Day 2/100 - Spinning Space"
