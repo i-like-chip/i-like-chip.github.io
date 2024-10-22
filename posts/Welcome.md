@@ -20,8 +20,8 @@ Dee
 <div style="height: 1em"> </div>
 
 #### Artist credits:  
-i like chip cat: [Jeanclaude Browncloud](https://www.instagram.com/jeanclaude_browncloud/)  
-i like computers gnome: [Doge Core](https://www.dogecore.com/)  
+'i like chip' cat: [Jeanclaude Browncloud](https://www.instagram.com/jeanclaude_browncloud/)  
+'i like computer' gnome: [Doge Core](https://www.dogecore.com/)  
 lil guy eating fries: [Sara Hagale](https://www.shagey.com/)
 
 
