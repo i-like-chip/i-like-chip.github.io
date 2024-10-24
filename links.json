@@ -6,8 +6,12 @@
   , "href": "https://www.thingiverse.com/pla-linguine/designs"
   , "text": "thingiverse.com/pla-linguine"
   },
+  { "name": "youtube:"
+  , "href": "https://www.youtube.com/channel/UC5qJibW061k2Ym4J-wIgLcg"
+  , "text": "youtube.com/i-like-chip"
+  },
   { "name": "buy me chip:"
   , "href": "https://paypal.me/ilikechip?country.x=GB&locale.x=en_GB"
-  , "text": "paypal.me/ilikechip"
+  , "text": "paypal.me/i-like-chip"
   }
 ]
