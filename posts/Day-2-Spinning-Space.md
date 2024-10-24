@@ -2,7 +2,7 @@
 
 I wanted to create the feeling of moving through space, like looking out a side window of a spaceship. I decided to try and achieve this by rotating a square image of the [Crystal Ball Nebula](https://www.jpl.nasa.gov/news/wise-image-reveals-strange-specimen-in-starry-sea/#carousel-4cca880b-e47b-4039-af7b-fc3bb27c303f-3) by NASA, and zooming in so the viewport traces a circle around the nebula, resulting in a complete loop and thus a looping video.
 
-To highlight this I've un-linked the image file so what's visible of it appears as a pink rectangle, the white square is the outline of the square image:
+To highlight this I've un-linked the image file so what's visible through the viewport appears as a pink rectangle, the white square is the outline of the square image:
 
 ![nasa-star-spin-blender.gif](./images/day-2-nasa-star-spin-blender.gif)
 
