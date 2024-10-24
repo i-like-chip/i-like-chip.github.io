@@ -2,28 +2,32 @@
  , "date": "=]"
  , "post": "hello.md"
  },
+ { "title": "Blender Day 7/100"
+  , "date": "21-08-2024"
+  , "post": "Day-7.md"
+  },
  { "title": "Blender Day 6/100 - Assets and Textures"
   , "date": "21-08-2024"
-  , "post": "Day-6.md"
+  , "post": "Day-5-Spaceship-Assets.md"
   },
  { "title": "Blender Day 5/100 - Spaceship Assets"
   , "date": "20-08-2024"
-  , "post": "Day-5.md"
+  , "post": "Day-5-Spaceship-Assets.md"
   },
  { "title": "Blender Day 4/100 - A Scene from Scratch"
   , "date": "19-08-2024"
-  , "post": "Day-4.md"
+  , "post": "Day-4-A-Scene-from-Scratch.md"
   },
  { "title": "Blender Day 3/100 - Video Plane & Lights"
   , "date": "18-08-2024"
-  , "post": "Day-3.md"
+  , "post": "Day-3-Video-Plane-and-Lights.md"
   },
  { "title": "Blender Day 2/100 - Spinning Space"
   , "date": "17-08-2024"
-  , "post": "Day-2.md"
+  , "post": "Day-2-Spinning-Space.md"
   },
  { "title": "Blender Day 1/100 - Getting Started"
   , "date": "16-08-2024"
-  , "post": "Day-1.md"
+  , "post": "Day-1-Getting-Started.md"
   }
 ]
