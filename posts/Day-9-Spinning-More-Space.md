@@ -1,9 +1,9 @@
 
 #### Spinning an HDRI
 
-My previous attempts to create the feeling of moving through space were not ideal, so I had the idea to rotate an HDRI through 360°. This would eliminate the spinning feeling with the previous videos, as the HDRI is a large sphere with the camera at the centre, the video will mostly 'come in' on one side of the viewport and 'go out' on the other. This should result in the feeling of looking out a window of a spaceship travelling in a straight line as the stars should slide past the window horizontlly.
+My previous attempts to create the feeling of moving through space were not ideal, so I had the idea to rotate an HDRI through 360°, which should eliminate the spinning feeling with the previous videos. The HDRI is a large spherical image with the camera at the centre of the sphere, so as it rotates, the stars will drift through the viewport horizontlly, like looking out a side window of a spaceship travelling in a straight line.
 
-The HDRI was a free one on BlenderKit, called 'Deep Dark Space with Stars' by EB Adventure Photoscans. In the shading tab I used keyframes to automate the rotation in the mapping node. Starting at 0° and finishing at 360° at frame 14,400 (10minutes at 24fps).
+The HDRI was a free one on BlenderKit called 'Deep Dark Space with Stars' by EB Adventure Photoscans. In the shading tab I used keyframes to automate the rotation in the mapping node. Starting at 0° and finishing at 360° at frame 14,400 (10minutes at 24fps).
 
 ![hdri](./images/day-9-spinning-the-hdri.PNG)
 
@@ -51,6 +51,6 @@ You can watch the full video of the 1hr loop here:
 src="https://www.youtube.com/embed/4QhsgCDJuzE">
 </iframe>
 
-The upload to YouTube took about 2hr and 45mins, so a 10hr video at that rate would take about 27.5hrs to upload.  
+The upload to YouTube took about 2hr and 45mins, so a 10hr version at that rate might take around 27.5hrs to upload.  
 
 <div style="height: 1em"> </div>
