@@ -3,8 +3,8 @@ I decided to make a scene in Blender, with the intention of making an ambient vi
 
 Here's what I did on day 1:  
 
-Made a hollow box using 2 cuboids and a difference Boolean modifier.  
-Used the same method to create a hole using a cylinder.  
+* Made a hollow box using 2 cuboids and a difference Boolean modifier.  
+* Used the same method to create a hole using a cylinder.  
 
 ![box](./images/day-1-box.png)
 

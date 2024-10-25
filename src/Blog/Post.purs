@@ -41,7 +41,7 @@ getPost (BlogPost { post }) = either (const "Error...") (\r -> r.body) <$> get s
 component :: forall q o m. MonadAff m => H.Component q BlogPost o m
 component = do
   H.mkComponent
-    { initialState: \bp -> (bp /\ Nothing) 
+    { initialState: \bp -> (bp /\ Nothing)
     , render
     , eval: H.mkEval H.defaultEval { handleAction = handleAction
                                    , initialize = Just Initialize
@@ -53,7 +53,7 @@ data Action = Initialize
 handleAction :: forall m. MonadAff m => MonadState (BlogPost /\ Maybe String) m => Action -> m Unit
 handleAction Initialize = do
   (post /\ _) <- H.get
-  md <- liftAff $ getPost post 
+  md <- liftAff $ getPost post
   H.put (post /\ Just md)
 
 
@@ -84,9 +84,9 @@ render (BlogPost { title, date } /\ md) =
                 [ style do
                     width (em 1.0)
                 ] []
-            , HH.h3
+            , HH.h2
                 [ style do
-                    color (maybe Color.black identity (fromHexString "#566573"))
+                    color (maybe Color.black identity (fromHexString "#333333"))
                 ]
                 [ HH.text date
                 ]
@@ -94,7 +94,7 @@ render (BlogPost { title, date } /\ md) =
                 [ style do
                     width (em 1.0)
                 ] []
-            , HH.h3_
+            , HH.h2_
                 [ HH.text title
                 ]
             , HH.div
@@ -109,8 +109,7 @@ render (BlogPost { title, date } /\ md) =
             padding (em 0.0) (em 1.0) (em 0.0) (em 1.0)
         ]
         [ case md of
-            Nothing -> HH.div_ [] 
-            Just mk -> HH.slot_ _markdown unit Markdown.component mk 
+            Nothing -> HH.div_ []
+            Just mk -> HH.slot_ _markdown unit Markdown.component mk
         ]
     ]
-

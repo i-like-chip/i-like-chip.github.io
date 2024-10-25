@@ -5,7 +5,7 @@ Here is what I made:
 
 ![plane](/images/day-4-lil-world.png)
 
-Joey's videos are really good. Everything is explained very well, and button presses are annouced vocally and shwon visually on the screen which is a big help. I'm very pleased with the end result, and making this scene increased skill as well as my confidence.
+Joey's videos are really good. Everything is explained very well, and button presses are annouced vocally and shwon visually on the screen which was a big help. I'm very pleased with the end result, and making this scene increased my skill as well as my confidence.
 
 You can watch the video here:
 

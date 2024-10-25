@@ -9,9 +9,9 @@ The second will sit on a flat surface:
 
 ![planter 2](/images/day-7-planter-2.png)
 
-Here they are in the scene:
+Here they are in the scene, with a couple more tube lights above the desk:
 
-![planters in scene](/images/day-7-planters.png)
+![planters in scene](/images/day-7-scene.png)
 
 
 
