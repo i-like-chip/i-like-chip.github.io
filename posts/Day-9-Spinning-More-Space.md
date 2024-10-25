@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/z6IF3eYsmPw">
 
 The upload to YouTube took about 15mins, +70mins extra for 4K (I don't think it actually took this long).  
 
-Exporting the render took a few hours, so I exported each frame individually into a folder in case Blender crashed. This required about 70GB free space. I composited the frames into a 4K video using the Blender video editor, I can't remember how long the rendder took, maybe an hour?
+Exporting the render took a few hours, so I exported each frame individually into a folder in case Blender crashed. This required about 70GB free space. I composited the frames into a 4K video using the Blender video editor, I can't remember how long the render took, maybe an hour?
 
 <div style="height: 1em"> </div>
 
@@ -39,21 +39,18 @@ Here's the result as a .gif:
 
 ![stars going by 1hr](./images/day-9-stars-going-by-1hr.gif)
 
-You can watch the full video here:
+Layering this version into the scene has a more relaxing feel to it and better suits an ambient video.  
 
-<iframe width="1000" height="315"
-src="https://www.youtube.com/embed/">
-</iframe>
-
-The upload to YouTube took about 1hr and 55mins, so a 10hr video at that rate would take a little more than 19hrs to upload.  
-
-  <div style="height: 1em"> </div>
-
-Layering this version into the scene has a more relaxing feel to it, like drifting through space.  
 Here's the result as a .gif:
 
 ![scene with 1hr stars](./images/day-9-1hr-spin-layered-13.5s-25fps.gif)
 
+You can watch the full video of the 1hr loop here:
 
+<iframe width="1000" height="315"
+src="https://www.youtube.com/embed/4QhsgCDJuzE">
+</iframe>
+
+The upload to YouTube took about 2hr and 45mins, so a 10hr video at that rate would take about 27.5hrs to upload.  
 
 <div style="height: 1em"> </div>
