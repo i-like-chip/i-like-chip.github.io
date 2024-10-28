@@ -1,5 +1,5 @@
 
-With he main elements of the room sketched out it was time to make it feel lived-in. I curated some items found on Blenderkit and placed them in the scene, here is a gallery:
+With the main elements of the room sketched out it was time to make it feel lived-in. I curated some items found on Blenderkit and placed them in the scene, here is a gallery:
 
 ![desk](./images/day-8-desk.png)
 
