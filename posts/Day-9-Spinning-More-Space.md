@@ -53,7 +53,7 @@ src="https://www.youtube.com/embed/4QhsgCDJuzE">
 
 The upload to YouTube took about 2hr and 45mins, so a 10hr version at that rate might take around 27.5hrs to upload.  
 
-Here's an image of the sceen in 4K resolution:
+Here's an image of the scene in 4K resolution:
 
 ![full scene](./images/day-9-full-scene.png)
 
