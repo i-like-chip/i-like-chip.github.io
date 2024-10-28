@@ -27,7 +27,7 @@ Layering the video into the spaceship scene made it clear that 10mins is not lon
 
 Here's the result as a .gif:
 
- ![scene with 10min stars](./images/day-9-10min-spin-layered-13.5s-25fps.gif)
+ ![scene with 10min stars](./images/day-9-10min-scene.gif)
 
   <div style="height: 1em"> </div>
 
@@ -43,7 +43,7 @@ Layering this version into the scene has a more relaxing feel to it and better s
 
 Here's the result as a .gif:
 
-![scene with 1hr stars](./images/day-9-1hr-spin-layered-13.5s-25fps.gif)
+![scene with 1hr stars](./images/day-9-1hr-scene.gif)
 
 You can watch the full video of the 1hr loop here:
 
