@@ -11,6 +11,6 @@ With the main elements of the room sketched out it was time to make it feel live
 
 ![full scene](./images/day-8-full-scene.png)
 
-I'd like to animate the screens, some of the various LEDs in the scene, steam from the coffee mug, and perhaps some water vapour coming from vents by the plants.
+I'd like to animate the screens, some of the various LEDs in the scene, steam from the coffee mug, and I might add some vents by the plants and animate water vapour coming from them.
 
 <div style="height: 1em"> </div>
