@@ -2,7 +2,7 @@
 
 I intend to document my first 100 days working in Blender, as a way of keeping track of what I've learned, and as a resource for when I forget how to do something.
 
-I am also designing some mods to improve the aesthetics and performance of my Ender 3 V1. When I'm done I'll pit it against my friends Bambu Labs A1 mini, and hopefully I'll have a 3D printer that rivals it.
+I am also working on some mods to improve the aesthetics and performance of my Ender 3 V1, thinking about making an ambient youtube channel, and working on various music projects, so we'll see where this blog goes!
 
 Please use the post links in the sidebar to navigate this website, and through the Thingiverse link at the top you will find .stl files of my designs and 3D prints.
 
