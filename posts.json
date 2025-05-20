@@ -1,53 +1,49 @@
 [ { "title": "hello"
- , "date": "=]"
- , "post": "hello.md"
- },
- { "title": "Blender Days 13-16/100 - Keyboard and Mouse Tray"
-  , "date": "26-29/09/2024"
-  , "post": "Days-13-16-Keyboard-and-Mouse-Tray.md"
+  , "date": "=]"
+  , "post": "hello.md"
   },
-  { "title": "Blender Days 11-12/100 - Camping Stove Knob "
-   , "date": "30-31/08/2024"
-   , "post": "Days-11-12-Camping-Stove-Knob.md"
-   },
-   { "title": "Blender Day 10/100 - Amby"
-    , "date": "29/08/2024"
-    , "post": "Day-10-Amby.md"
-    },
- { "title": "Blender Day 9/100 - Spinning More Space"
-  , "date": "28/08/2024"
-  , "post": "Day-9-Spinning-More-Space.md"
+  { "title": "1 - Getting Started"
+  , "date": "=]"
+  , "post": "1-Getting-Started.md"
   },
- { "title": "Blender Day 8/100 - Living Scene"
-  , "date": "27/08/2024"
-  , "post": "Day-8-Living-Scene.md"
+  { "title": "2 - Spinning Space"
+  , "date": "=]"
+  , "post": "2-Spinning-Space.md"
   },
- { "title": "Blender Day 7/100 - Planter Assets"
-  , "date": "24/08/2024"
-  , "post": "Day-7-Planter-Assets.md"
+  { "title": "3 - Video Plane & Lights"
+  , "date": "=]"
+  , "post": "3-Video-Plane-and-Lights.md"
   },
- { "title": "Blender Day 6/100 - Assets and Textures"
-  , "date": "21/08/2024"
-  , "post": "Day-6-Assets-and-Textures.md"
+  { "title": "4 - A Scene from Scratch"
+  , "date": "=]"
+  , "post": "4-A-Scene-from-Scratch.md"
   },
- { "title": "Blender Day 5/100 - Spaceship Assets"
-  , "date": "20/08/2024"
-  , "post": "Day-5-Spaceship-Assets.md"
+  { "title": "5 - Spaceship Assets"
+  , "date": "=]"
+  , "post": "5-Spaceship-Assets.md"
   },
- { "title": "Blender Day 4/100 - A Scene from Scratch"
-  , "date": "19/08/2024"
-  , "post": "Day-4-A-Scene-from-Scratch.md"
+  { "title": "6 - Assets and Textures"
+  , "date": "=]"
+  , "post": "6-Assets-and-Textures.md"
   },
- { "title": "Blender Day 3/100 - Video Plane & Lights"
-  , "date": "18/08/2024"
-  , "post": "Day-3-Video-Plane-and-Lights.md"
+  { "title": "7 - Planter Assets"
+  , "date": "=]"
+  , "post": "7-Planter-Assets.md"
   },
- { "title": "Blender Day 2/100 - Spinning Space"
-  , "date": "17/08/2024"
-  , "post": "Day-2-Spinning-Space.md"
+  { "title": "8 - Living Scene"
+  , "date": "=]"
+  , "post": "8-Living-Scene.md"
   },
- { "title": "Blender Day 1/100 - Getting Started"
-  , "date": "16/08/2024"
-  , "post": "Day-1-Getting-Started.md"
-  }
+  { "title": "9 - Spinning More Space"
+  , "date": "=]"
+  , "post": "9-Spinning-More-Space.md"
+  },
+  { "title": "10 - Amby"
+  , "date": "=]"
+  , "post": "10-Amby.md"
+  },
+  { "title": "11 - Camping Stove Knob "
+  , "date": "=]"
+  , "post": "11-Camping-Stove-Knob.md"
+}
 ]

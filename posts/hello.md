@@ -1,10 +1,17 @@
-## Welcome to 'i like chip', a blog about 3D design for digital art and 3D printing.
+## Welcome to 'i like chip', a blog about design for digital art and 3D printing.
 
-I intend to document my first 100 days working in Blender, as a way of keeping track of what I've learned, and as a resource for when I forget how to do something.
+This is my personal portfolio where I document my journey learning Blender, and my exploration of 3D printing. You'll find a mix of projects which showcase the creative process and technical steps as I build my skills, along with completed designs that I've brought to life through 3D printing.
 
-I am also working on some mods to improve the aesthetics and performance of my Ender 3 V1, thinking about making an ambient youtube channel, and working on various music projects, so we'll see where this blog goes!
+I have a back log of projects to post about as I'm currently designing a HUGE Voron 2.4 with 600x600x300mm build volume!
 
-Please use the post links in the sidebar to navigate this website, and through the Thingiverse link at the top you will find .stl files of my designs and 3D prints.
+Here's a couple of project highlights so far:
+
+Amby, a character I designed, in holographic form
+![amby-holo](./images/day-10-amby-holo.PNG)
+
+Spaceship scene, with animated stars
+![scene with 10min stars](./images/day-9-10min-scene.gif)
+
 
 <div style="height: 1em"> </div>
 
