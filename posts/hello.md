@@ -4,12 +4,14 @@ This is my personal portfolio where I document my journey learning Blender, and 
 
 I have a back log of projects to post about as I'm currently designing a HUGE Voron 2.4 with 600x600x300mm build volume!
 
-Here's a couple of project highlights so far:
+### Highlights
 
-Amby, a character I designed, in holographic form
+This is Amby, a character I designed, in holographic form:
+
 ![amby-holo](./images/day-10-amby-holo.PNG)
 
-Spaceship scene, with animated stars
+Spaceship scene, with animated stars:
+
 ![scene with 10min stars](./images/day-9-10min-scene.gif)
 
 
