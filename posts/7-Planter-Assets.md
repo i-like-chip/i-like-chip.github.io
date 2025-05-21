@@ -1,7 +1,7 @@
 
 To add more life to the scene I made some planters for some plants I found on BlenderKit. I also made tube lights above them.
 
-The first one is wall mounted, with 2 prong-like arms that attatch it to the wall:
+The first one is wall mounted, with 2 prong-like arms that attach it to the wall:
 
 ![planter 1](/images/day-7-planter-1.png)
 
