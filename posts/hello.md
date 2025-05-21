@@ -6,16 +6,18 @@ I have a back log of projects to post about as I'm currently designing a HUGE Vo
 
 ### Highlights
 
-This is Amby, a character I designed, in holographic form:
+This is Amby, a character I designed in holographic form:
 
 ![amby-holo](./images/day-10-amby-holo.PNG)
 
-Spaceship scene, with animated stars:
+This is a spaceship scene I made with animated stars:
 
 ![scene with 10min stars](./images/day-9-10min-scene.gif)
 
-
+Thanks for checking out my website,  
+Dee
 <div style="height: 1em"> </div>
+
 
 ### Computer need chip...and so do I.
 
@@ -23,15 +25,15 @@ Spaceship scene, with animated stars:
 
 <div style="height: 1em"> </div>
 
-Thanks for checking out my website,  
-Dee
-<div style="height: 1em"> </div>
+
 <div style="height: 1em"> </div>
 
 #### Artist credits:  
 'i like chip' cat: [Jeanclaude Browncloud](https://www.instagram.com/jeanclaude_browncloud/)  
 'i like computer' gnome: [Doge Core](https://www.dogecore.com/)  
-lil guy eating fries: [Sara Hagale](https://www.shagey.com/)
+person eating fries: [Sara Hagale](https://www.shagey.com/)
+
+<div style="height: 1em"> </div>
 
 
 
