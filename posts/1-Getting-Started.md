@@ -12,6 +12,5 @@ It's not pretty yet, but but here's what I did on Day 1 in Blender:
 
 I ended up remaking the box using planes so I could remove individual walls and the ceiling for easier access to the interior. The planes form the walls, floor, and ceiling of a room on a spaceship.
 
-:fries:
 
 <div style="height: 1em"> </div>
