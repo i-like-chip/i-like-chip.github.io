@@ -37,7 +37,7 @@ I edited the design of these bats so that I could print them in 2 colours. I als
 
 ### Skull Brooch
 
-I edited this brooch to have a flat back for better printing, and so that I could glue a magnet on the back. This allowed it to stick to the metal clasp on the front of my partners corset. Again I printed it in 2 colours to contrast the skull against the ornate shapes behind it. I edited the front teeth to make the fangs more prominent, and did the colour change on a layer that made it look like the skull has horns.
+I edited this pendent into a brooch by removing the loop at the top. I flattened the back for easier printing, and to provide a better surface to glue a magnet to. The magnet allows it to stick to the metal clasp on the front of my partners corset. Again I printed it in 2 colours to contrast the skull against the ornate shapes behind it. I edited the front teeth to make the fangs more prominent, and did the colour change on a layer that made it look like the skull has horns.
 
 ![Skull Brooch](./images/12-skull-brooch.png)
 
