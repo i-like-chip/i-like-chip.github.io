@@ -1,11 +1,15 @@
 [
+  { "name": "music"
+  , "href": "https://i-like-chip.github.io/#Dotoro-Music.md"
+  , "text": "dotoro-music.com"
+  },
+  { "name": "things:"
+  , "href": "https://www.thingiverse.com/i-like-chip/designs"
+  , "text": "thingiverse.com/i-like-chip"
+  },
   { "name": "instagram:"
   , "href": "https://www.instagram.com/dee_dotoro/"
   , "text": "instagram.com/dee_dotoro"
-  },
-  { "name": "thingiverse:"
-  , "href": "https://www.thingiverse.com/i-like-chip/designs"
-  , "text": "thingiverse.com/i-like-chip"
   },
   { "name": "youtube:"
   , "href": "https://www.youtube.com/channel/UC5qJibW061k2Ym4J-wIgLcg"
