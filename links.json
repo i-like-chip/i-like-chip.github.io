@@ -1,14 +1,14 @@
 [
-  { "name": ":triangular_ruler:thingiverse:"
-  , "href": "   https://www.thingiverse.com/i-like-chip/designs"
+  { "name": "thingiverse:"
+  , "href": "https://www.thingiverse.com/i-like-chip/designs"
   , "text": "thingiverse.com/i-like-chip"
   },
-  { "name": ":video_camera:youtube:"
-  , "href": "   https://www.youtube.com/channel/UC5qJibW061k2Ym4J-wIgLcg"
+  { "name": "youtube:"
+  , "href": "https://www.youtube.com/channel/UC5qJibW061k2Ym4J-wIgLcg"
   , "text": "youtube.com/i-like-chip"
   },
-  { "name": ":fries:donate chip:"
-  , "href": "   https://paypal.me/ilikechip?country.x=GB&locale.x=en_GB"
+  { "name": "&#127839donate chip:"
+  , "href": "https://paypal.me/ilikechip?country.x=GB&locale.x=en_GB"
   , "text": "paypal.me/i-like-chip"
   }
 ]
