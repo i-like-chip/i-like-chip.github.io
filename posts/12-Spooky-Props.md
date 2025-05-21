@@ -29,7 +29,7 @@ I edited these horns so that I could use small cable ties to attached them to a 
 
 #### Bats
 
-I edited the design of these bats so that I could print them in 2 colours. I also added a loop on the back so the bats could be threaded onto the belt string of a satin gown. I tried to give the bats little fangs but they were to small to have the shape I wanted - they came out a bit blobby.
+I edited the design of these bats so that I could print them in 2 colours. I also added loops on the back so the bats could be threaded onto the belt string of a satin gown. I tried to give the bats little fangs but they were to small to have the shape I wanted - they came out a bit blobby.
 
 ![Bats](./images/12-bats.png)
 
@@ -37,7 +37,7 @@ I edited the design of these bats so that I could print them in 2 colours. I als
 
 #### Skull Brooch
 
-I edited this brooch to have a flat back for better printing, and so that I could glue a magnet on the back. This allowed it to stick to the metal clasp on the front of my partners corset. Again I printed it in 2 colours to contrast the skull against the ornate shapes behind it. I edited the front teeth to make the fangs more prominent, and did the colour change on the layer that made it look like the skull has horns.
+I edited this brooch to have a flat back for better printing, and so that I could glue a magnet on the back. This allowed it to stick to the metal clasp on the front of my partners corset. Again I printed it in 2 colours to contrast the skull against the ornate shapes behind it. I edited the front teeth to make the fangs more prominent, and did the colour change on a layer that made it look like the skull has horns.
 
 ![Skull Brooch](./images/12-skull-brooch.png)
 
