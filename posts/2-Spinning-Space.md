@@ -1,4 +1,4 @@
-#### Crystal Ball Nebula
+### Crystal Ball Nebula
 
 I wanted to create the feeling of moving through space, like looking out a side window of a spaceship. I decided to try and achieve this by rotating a square image of the [Crystal Ball Nebula](https://www.jpl.nasa.gov/news/wise-image-reveals-strange-specimen-in-starry-sea/#carousel-4cca880b-e47b-4039-af7b-fc3bb27c303f-3) by NASA, and zooming in so the viewport traces a circle around the nebula, resulting in a complete loop and thus a looping video.
 
@@ -24,7 +24,7 @@ The image used was 2618x2618 pixels, so I would need a much bigger image to prod
 
 <div style="height: 1em"> </div>
 
-#### Stephan's Quintet
+### Stephan's Quintet
 The process was repeated with a very high resolution image (12654x12132pixels) from the James Webb telescope, of [Stephan's Quintet](https://webbtelescope.org/contents/media/images/2022/034/01G7DA5ADA2WDSK1JJPQ0PTG4A).
 
 Here's the reuslt as a 15s .gif at 24fps:

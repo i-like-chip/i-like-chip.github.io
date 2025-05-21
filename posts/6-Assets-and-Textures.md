@@ -1,5 +1,5 @@
 
-### Sci-Fi Wall
+## Sci-Fi Wall
 
 To give the room more shape I decided to make a sci-fi style wall with support columns, panelling, and integrated desk. To begin with I made a support column, then I duplicated it and re-shaped it into a panel piece, then duplicated that and made a panel piece with a different shape. I used these pieces to start building the wall, and modelled the desk to fit between the support columns.
 
@@ -19,7 +19,7 @@ Here you can see I've selected those faces, applied a duplicate of the texture, 
 
 <div style="height: 1em"> </div>
 
-### Seating
+## Seating
 
 I added some comfort to the space:
 

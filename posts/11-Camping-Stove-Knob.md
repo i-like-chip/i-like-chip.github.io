@@ -1,13 +1,13 @@
 
 A friend asked me to 3D print a replacement knob for their camping stove, as it was lost on a trip!
 
-#### Modelling the Shaft
+### Modelling the Shaft
 
  All I had to work with was the other original knob from the camping stove, so I started by taking some measurements and modelling the D-shaped shaft. I printed it to test the fit with the original knob.
 
 ![D-shaped-shaft](./images/day-11-shaft.png)
 
-#### Modelling the Knob
+### Modelling the Knob
 
 As it's for a camping stove I decided to go for a flower shape to fit the nature vibe. I mainly used Boolean modifiers to combine shapes, cut out the inside, and use the shaft model to cut out the D-shaped hole.
 
@@ -16,7 +16,7 @@ As it's for a camping stove I decided to go for a flower shape to fit the nature
 
 I printed this knob but found that it was a little bit tight on the shaft that I printed earlier. I also wasn't happy with how sharp the edges were, and the mesh in Blender seemed very messy.
 
-#### Modelling V2
+### Modelling V2
 
 I tried to do some manual mesh editing but it proved difficult, so I ended up remodelling the whole object from scratch. I then used a method from [this video](https://youtu.be/sB68HUH87dk?si=vFysSH3rJOFzn7ug) to smooth the edges and improve the mesh - essentially you apply the modifiers Remesh, Smooth Corrective, then Decimate.
 

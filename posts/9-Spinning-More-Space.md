@@ -1,5 +1,5 @@
 
-#### Spinning an HDRI
+### Spinning an HDRI
 
 My previous attempts to create the feeling of moving through space were not ideal, so I had the idea to rotate an HDRI through 360°, which should eliminate the spinning feeling with the previous videos. The HDRI is a large spherical image with the camera at the centre of the sphere, so as it rotates, the stars will drift through the viewport horizontlly, like looking out a side window of a spaceship travelling in a straight line.
 
@@ -31,7 +31,7 @@ Here's the result as a .gif:
 
   <div style="height: 1em"> </div>
 
-#### Slowing Down
+### Slowing Down
 
 I repeated the process of spinning the HDRI but this time over 1 hour, and at 30fps as I found out this is preferred by YouTube. The render required about 250GB of free space as there were 108,000 4K frames, it took about 16hrs.
 
