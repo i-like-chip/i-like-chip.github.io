@@ -3,17 +3,13 @@
   , "href": "https://www.thingiverse.com/i-like-chip/designs"
   , "text": "thingiverse.com/i-like-chip"
   },
-  { "name": "music:"
-  , "href": "https://i-like-chip.github.io/#Dotoro"
-  , "text": "Dotoro"
+  { "name": "youtube:"
+  , "href": "https://www.youtube.com/channel/UC5qJibW061k2Ym4J-wIgLcg"
+  , "text": "youtube.com/i-like-chip"
   },
   { "name": "instagram:"
   , "href": "https://www.instagram.com/dee_dotoro/"
   , "text": "instagram.com/dee_dotoro"
-  },
-  { "name": "youtube:"
-  , "href": "https://www.youtube.com/channel/UC5qJibW061k2Ym4J-wIgLcg"
-  , "text": "youtube.com/i-like-chip"
   },
   { "name": "donate chip:"
   , "href": "https://paypal.me/ilikechip?country.x=GB&locale.x=en_GB"
