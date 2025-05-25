@@ -8,7 +8,7 @@ I have a back log of projects to post about as I'm currently designing a HUGE Vo
 
 This is Amby, a character I designed in holographic form:
 
-![amby-holo](./images/day-10-amby-holo.PNG)
+![amby-holo](./images/day-10-amby-holo-2.gif)
 
 This is a spaceship scene I made with animated stars:
 
