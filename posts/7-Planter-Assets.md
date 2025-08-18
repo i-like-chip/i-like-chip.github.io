@@ -3,15 +3,15 @@ To add more life to the scene I made some planters for some plants I found on Bl
 
 The first one is wall mounted, with 2 prong-like arms that attach it to the wall:
 
-![planter 1](/images/day-7-planter-1.png)
+![planter 1](/images/7-planter-1.png)
 
 The second will sit on a flat surface:
 
-![planter 2](/images/day-7-planter-2.png)
+![planter 2](/images/7-planter-2.png)
 
 Here they are in the scene, with a couple more tube lights above the desk:
 
-![planters in scene](/images/day-7-scene.png)
+![planters in scene](/images/7-scene.png)
 
 
 

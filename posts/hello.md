@@ -8,11 +8,11 @@ If you came looking for music it's over there >>>>
 
 This is Amby, a character I designed in holographic form:
 
-![amby-holo](./images/day-10-amby-holo-2.gif)
+![amby-holo](./images/10-amby-holo-2.gif)
 
 This is the current state of a spaceship scene I'm working on:
 
-![scene with 10min stars](./images/day-9-10min-scene.gif)
+![scene with 10min stars](./images/9-10min-scene.gif)
 
 Thanks for checking out my website,  
 Dee
