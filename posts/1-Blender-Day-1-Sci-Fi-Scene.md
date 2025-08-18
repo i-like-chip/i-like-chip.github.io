@@ -1,16 +1,12 @@
 
-I decided to make a Sci-fi scene in Blender, the idea is to make it in the style of an ambient video like you'll find on YouTube. I find I learn best when I come up with something to make, then figure out how to make it. I chose Blender as it is powerful software for digital art, animation, assets for video games, and design for 3D printing, all of which I am interested in exploring.
+I'd been watching a lot of ambient videos on youtube, and I figured making an ambient scene would be a good first project in Blender. I've used various other CAD and 3D modelling software, but Blender is free and is capable of doing all sorts of things that I want to explore. 
 
+I decided to make a Sci-fi scene, a room on a spaceship perhaps...
 
-It's not pretty yet, but but here's what I did on Day 1 in Blender:  
-
-* Made a hollow box using 2 cuboids and a difference Boolean modifier.  
-* Used the same method to create a hole using a cylinder.  
+I started by making a box using planes so I could remove individual walls and the ceiling for easier access to the interior. With a cylinder, I used the Boolean modifier in difference mode to punch a hole in one of the planes to make a window.
 
 ![box](./images/1-box.png)
 
+After this I started thinking about how I might make some stars move past the window...
 
-I ended up remaking the box using planes so I could remove individual walls and the ceiling for easier access to the interior. The planes form the walls, floor, and ceiling of a room on a spaceship.
-
-.
 <div style="height: 1em"> </div>
