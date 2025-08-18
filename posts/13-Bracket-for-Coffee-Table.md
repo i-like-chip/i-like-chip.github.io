@@ -14,10 +14,10 @@ Each bracket is mounted with 3x 16mm socket-head-cap screws, with 8.8mm diameter
 
 I printed in this orientation with supports.
 
-![Bracket-2](./images/13-bracket3.JPG)
+![Bracket-2](./images/13-bracket5.png)
 
 The layers are compressed by the screws for best strength and durability.
 
-![Bracket-2](./images/13-bracket5.png)
+![Bracket-2](./images/13-bracket3.JPG)
 
   <div style="height: 1em"> </div>
