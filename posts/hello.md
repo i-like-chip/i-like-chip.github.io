@@ -1,8 +1,8 @@
-## Welcome to 'i like chip', a blog about design for digital art and 3D printing.
+## Welcome to 'i like chip', a blog about design for digital art, products, trinkets, 3D printing and more!
 
-This is my personal portfolio where I document my journey learning Blender, and my exploration of 3D printing. You'll find a mix of projects which showcase the creative process and technical steps as I build my skills, along with completed designs that I've brought to life through 3D printing.
+I'm always making something, so I made this website to showcase some things I've made.
 
-I have a back log of projects to post about as I'm currently designing a HUGE Voron 2.4 with 600x600x300mm build volume!
+If you came looking for music it's over there >>>>
 
 ### Highlights
 
@@ -10,7 +10,7 @@ This is Amby, a character I designed in holographic form:
 
 ![amby-holo](./images/day-10-amby-holo-2.gif)
 
-This is a spaceship scene I made with animated stars:
+This is the current state of a spaceship scene I'm working on:
 
 ![scene with 10min stars](./images/day-9-10min-scene.gif)
 
