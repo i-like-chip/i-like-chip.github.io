@@ -1,6 +1,5 @@
 
-Our coffee table gets moved around a lot and it kept coming apart because it's old and broken.
-After glueing it back together a couple of times I decided to design some brackets.
+Our coffee table gets moved around a lot, and it's a bit broken, so it kept coming apart. After glueing it back together a couple of times I decided to design some brackets.
 
 ![Table](./images/13-bracket1.JPG)
 
