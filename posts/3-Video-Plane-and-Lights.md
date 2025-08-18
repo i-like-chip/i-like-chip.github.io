@@ -13,6 +13,7 @@ Here's what I did:
 
 ![scene](/images/3-scene.png)
 
+
 <div style="height: 1em"> </div>
 
 ### Blenderkit and Lighting
