@@ -8,10 +8,8 @@ Here's what I did:
 * Changed the surface to ‘Emission’ to prevent light reflecting off the video surface.
 * Placed the plane outside the ‘window’ of the box.
 
-<div style="text-align: center;"> 
-![plane](/images/3-plane.png)
-</div>
 
+![plane](/images/3-plane.png)
 
 ![scene](/images/3-scene.png)
 
