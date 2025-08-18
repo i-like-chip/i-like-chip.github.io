@@ -5,12 +5,12 @@ Now that I have some video of stars, I wanted to figure out how to position the 
 Here's what I did:  
 
 * Created a plane and changed the colour to ‘Image texture’ before selecting one of the videos made earlier.
+* Changed the surface to ‘Emission’ to prevent light reflecting off the video surface.
+* Placed the plane outside the ‘window’ of the box.
 
 ![plane](/images/3-plane.png)
 
-* Changed the surface to ‘Emission’ to prevent light reflecting off the video surface. Placed the plane outside the ‘window’ of the box.
-
-![scene](/images/3-scene.PNG)
+![scene](/images/3-scene.png)
 
 <div style="height: 1em"> </div>
 
