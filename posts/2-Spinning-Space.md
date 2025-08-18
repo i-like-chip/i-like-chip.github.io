@@ -4,15 +4,15 @@ I wanted to create the feeling of moving through space, like looking out a side 
 
 To highlight this I've un-linked the image file so what's visible through the viewport appears as a pink rectangle, the white square is the outline of the square image:
 
-![nasa-star-spin-blender.gif](./images/day-2-nasa-star-spin-blender.gif)
+![nasa-star-spin-blender.gif](./images/2-nasa-star-spin-blender.gif)
 
 I made the animation length 8640 frames i.e 6mins, and set keyframes on the rotation transform:
 
-![nasa-star-spin-blender.png](./images/day-2-nasa-star-spin-blender.PNG)
+![nasa-star-spin-blender.png](./images/2-nasa-star-spin-blender.PNG)
 
 Here's the reuslt as a 15s .gif at 24fps:
 
-![nasa-star-spin-15s-25fps](./images/day-2-nasa-star-spin-15s-25fps.gif)
+![nasa-star-spin-15s-25fps](./images/2-nasa-star-spin-15s-25fps.gif)
 
 You can watch the full video here:
 
@@ -29,7 +29,7 @@ The process was repeated with a very high resolution image (12654x12132pixels) f
 
 Here's the reuslt as a 15s .gif at 24fps:
 
-![james webb](./images/day-2-james-webb-spin-15s-25fps.gif)
+![james webb](./images/2-james-webb-spin-15s-25fps.gif)
 
 You can watch the full video here:
 

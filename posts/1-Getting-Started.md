@@ -7,7 +7,7 @@ It's not pretty yet, but but here's what I did on Day 1 in Blender:
 * Made a hollow box using 2 cuboids and a difference Boolean modifier.  
 * Used the same method to create a hole using a cylinder.  
 
-![box](./images/day-1-box.png)
+![box](./images/1-box.png)
 
 
 I ended up remaking the box using planes so I could remove individual walls and the ceiling for easier access to the interior. The planes form the walls, floor, and ceiling of a room on a spaceship.
