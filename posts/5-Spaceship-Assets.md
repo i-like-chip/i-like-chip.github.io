@@ -8,7 +8,7 @@ Here's what I did:
 
 * Made a vent with realistic slots by using the difference Boolean modifier.
 
-![window seat](/images/day-5-chair.png)
+![window seat](/images/5-chair.png)
 
 * Made a planter for the Monstera using a cube, and sculpted it in the same fashion as before.
 
@@ -16,11 +16,11 @@ Here's what I did:
 
 * Played around with panel lighting, and made the planter light plane glow by changing the surface to ‘Emission’ and turning up the strength.
 
-![monstera planter](/images/day-5-planter.png)
+![monstera planter](/images/5-planter.png)
 
 It's starting to look a bit more realistic with detailed textures on the walls, floor, and ceiling.
 
-![scene](/images/day-5-scene.png)
+![scene](/images/5-scene.png)
 
 
 <div style="height: 1em"> </div>

@@ -3,7 +3,7 @@ I decided it would be a good idea to follow along with a tutorial to help me get
 
 Here is what I made:
 
-![plane](/images/day-4-lil-world.png)
+![plane](/images/4-lil-world.png)
 
 Joey's videos are really good. Everything is explained very well, and button presses are anounced vocally and shown visually on the screen which was a big help. I'm very pleased with the end result, and making this scene increased my skill as well as my confidence.
 

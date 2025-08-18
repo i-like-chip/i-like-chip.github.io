@@ -6,11 +6,11 @@ Here's what I did:
 
 * Created a plane and changed the colour to ‘Image texture’ before selecting one of the videos made earlier.
 
-![plane](/images/day-3-plane.png)
+![plane](/images/3-plane.png)
 
 * Changed the surface to ‘Emission’ to prevent light reflecting off the video surface. Placed the plane outside the ‘window’ of the box.
 
-![scene](/images/day-3-scene.PNG)
+![scene](/images/3-scene.PNG)
 
 <div style="height: 1em"> </div>
 
@@ -19,7 +19,7 @@ Here's what I did:
 I downloaded BlenderKit and placed a rug and plant in the scene, then played around with lighting and colours.
 
 
-![rug and plant](/images/day-3-rug-plant.jpeg)
+![rug and plant](/images/3-rug-plant.jpeg)
 
 
 Video on lighting by Ryan King:
