@@ -32,5 +32,6 @@ Repeating this for each colour give this, which looks pretty cool!
 It is quite intensive for the computer as I am using four colours, which means there are four 3D arrays of glowing orbs occupying the same space, as you need a separate array for each colour. You could probably scale down the arrays so you have fewer 'pixels' that are not 'turned on.'
 
 <div style="height: 2em"> </div>
+
 ![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>

@@ -30,5 +30,6 @@ src="https://www.youtube.com/embed/JJV8l6MaXxA">
 </iframe>
 
 <div style="height: 2em"> </div>
+
 ![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>

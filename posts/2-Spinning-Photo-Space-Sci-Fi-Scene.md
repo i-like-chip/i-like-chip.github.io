@@ -41,5 +41,6 @@ The resolution is much better with this image, however, the rotation can still b
 
 
 <div style="height: 2em"> </div>
+
 ![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>

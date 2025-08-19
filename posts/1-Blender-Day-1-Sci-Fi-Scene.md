@@ -10,5 +10,6 @@ I started by making a box using planes so I could remove individual walls and th
 After this I started thinking about how I might make some stars move past the window...
 
 <div style="height: 2em"> </div>
+
 ![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>

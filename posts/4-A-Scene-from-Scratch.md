@@ -15,5 +15,6 @@ src="https://www.youtube.com/embed/uOmYInaX-wE">
 
 
 <div style="height: 2em"> </div>
+
 ![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>

@@ -14,5 +14,6 @@ With the main elements of the room sketched out it was time to make it feel live
 I'd like to animate more things in the scene such as the screens, various LEDs, and steam from the coffee mug. I might add some vents by the plants, and animate water vapour coming from them to keep the plants hydrated :].
 
 <div style="height: 2em"> </div>
+
 ![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>
