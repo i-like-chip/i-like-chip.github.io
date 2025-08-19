@@ -40,7 +40,6 @@ src="https://www.youtube.com/embed/PT7LtP-Jvtk">
 The resolution is much better with this image, however, the rotation can still be felt, and therefore isn't giving the feeling of smooth linear travel. The big light flares from some of the stars are cool but they break immersion.
 
 
-<div style="height: 2em"> </div>
-
-![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>
+
+![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)

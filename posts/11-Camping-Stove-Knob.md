@@ -35,7 +35,6 @@ Here is the final result:
 
 After making sure it fit nicely on the shaft I printed a second knob so my friend would have a matching pair!
 
-<div style="height: 2em"> </div>
-
-![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>
+
+![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)

@@ -33,17 +33,6 @@ Dee
 'i like computer' gnome: [Doge Core](https://www.dogecore.com/)  
 person eating fries: [Sara Hagale](https://www.shagey.com/)
 
-<div style="height: 2em"> </div>
-
-![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>
 
-
-
-
-
-
-
-
-
-<div style="height: 1em"> </div>
+![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)

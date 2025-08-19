@@ -20,7 +20,6 @@ Oh, I used glow in the dark fillament too!
 You can download the .stl here: [Korok](https://www.thingiverse.com/thing:7121229)
 
 
-<div style="height: 2em"> </div>
-
-![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>
+
+![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)

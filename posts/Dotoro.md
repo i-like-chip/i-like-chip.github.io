@@ -9,7 +9,6 @@ My music is on most platforms, here's a couple link snakes:
 ![Dotoro link page photos](./images/Dotoro-link-page.png)
 
 
-<div style="height: 2em"> </div>
-
-![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>
+
+![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)

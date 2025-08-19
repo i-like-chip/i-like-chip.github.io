@@ -15,7 +15,6 @@ Here they are in the scene, with a couple more tube lights above the desk:
 
 
 
-<div style="height: 2em"> </div>
-
-![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>
+
+![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)
