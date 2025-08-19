@@ -11,5 +11,5 @@ After this I started thinking about how I might make some stars move past the wi
 
 <div style="height: 2em"> </div>
 
-![Little Amby](./images/amby-little.gif) ![i like chip](https://i-like-chip.github.io/)
+![Little Amby](./images/amby-little.gif) [i like chip](https://i-like-chip.github.io/)
 <div style="height: 1em"> </div>
