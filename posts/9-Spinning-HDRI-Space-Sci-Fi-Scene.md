@@ -57,4 +57,6 @@ Here's an image of the scene in 4K resolution:
 
 ![full scene](./images/9-full-scene.png)
 
+<div style="height: 2em"> </div>
+![Little Amby](./images/amby-small.gif)
 <div style="height: 1em"> </div>

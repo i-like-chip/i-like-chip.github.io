@@ -44,4 +44,6 @@ I edited this pendent into a brooch by removing the loop at the top. I flattened
 
 
 
-  <div style="height: 1em"> </div>
+<div style="height: 2em"> </div>
+![Little Amby](./images/amby-small.gif)
+<div style="height: 1em"> </div>
