@@ -1,6 +1,6 @@
-## Welcome to 'i like chip', a blog about design for digital art, products, trinkets, 3D printing and more!
+## Welcome to 'i like chip' — a blog exploring digital art, design, 3D printing, and whatever else sparks my curiosity.
 
-I'm always making something, so I made this website to showcase some things I've made.
+I'm always making something, and I'm learning Blender, so I made this website to showcase things I've made, and how I made them.
 
 If you came looking for music it's over there >>>>
 
