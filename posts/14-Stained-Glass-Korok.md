@@ -17,8 +17,10 @@ Oh, I used glow in the dark fillament too!
 
 ![Korok](./images/14-korok-3.jpg)
 
-You can download the .stl here:
-https://www.thingiverse.com/thing:7121229
+You can download the .stl here: [Korok](https://www.thingiverse.com/thing:7121229)
 
+
+
+![Little Amby](./images/amby-small.gif)
 
   <div style="height: 1em"> </div>
