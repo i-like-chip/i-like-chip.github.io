@@ -9,8 +9,11 @@ I started by making a box using planes so I could remove individual walls and th
 
 After this I started thinking about how I might make some stars move past the window...
 
-<div style="height: 2em"> </div>
-
-.....<{[i like chip](https://i-like-chip.github.io/)}
+<div style="height: 1em"> </div>
+<div style="height: 1em"> </div>
+<div style="height: 1em"> </div>
+<div style="height: 1em"> </div>
+<div style="height: 1em"> </div>
 
 ![Little Amby](./images/amby-little.gif)
+[][i like chip](https://i-like-chip.github.io/)]
