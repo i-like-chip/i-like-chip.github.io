@@ -1,6 +1,6 @@
-## Welcome to 'i like chip' — a blog exploring digital art, design, 3D printing, and whatever else sparks my curiosity.
+## Welcome to 'i like chip' — a blog exploring design, digital art, 3D printing, and whatever else sparks my curiosity.
 
-I'm always making something, so I made this website to showcase things some things I've made, and how I made them. I'm currently learning Blender, building another 3D printer, and working on music.
+I'm always making something, so I made this website to showcase some things I've made, and how I made them. I'm currently learning Blender, building another 3D printer, and working on music.
 
 Links to 3D print files, videos, music, and other things over there >>>>
 
@@ -13,6 +13,10 @@ This is Amby, a character I designed:
 This is the current state of a spaceship scene I'm working on:
 
 ![scene with 10min stars](./images/9-10min-scene.gif)
+
+This is a pair of earrings my partner and I made together:
+
+![Earrings](./images/12-earrings.png)
 
 <div style="height: 1em"> </div>
 

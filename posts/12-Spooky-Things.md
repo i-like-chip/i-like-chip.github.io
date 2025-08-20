@@ -15,7 +15,7 @@ This ghost I made in Blender using a free .svg file a found. I made it so that I
 
 I collaborated with my partner to make these earrings, as she is really good at making jewellery. The skull was originally life size, so I scaled it down and made it more solid by adding some shapes to fill the space. I made the base flat so that it would print easily, then re-meshed to smooth everything out. My partner then made the chains and turned the skulls into earrings.
 
-![Earrings](./images/12-earrings.png)
+![Earrings](./images/12-skulls-and-earrings.png)
 
   <div style="height: 1em"> </div>
 
