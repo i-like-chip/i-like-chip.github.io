@@ -1,5 +1,5 @@
 
-My partner requested some spooky things for her vampire halloween costume and our flat. Most of these are remixes from designs I found on Thingiverse, you can find the files through my Thingiverse link.
+My partner requested some spooky things for her vampire halloween costume and our flat. Most of these are remixes from designs I found on Thingiverse, you can find the files through my Thingiverse link over there >>>>
 
   <div style="height: 1em"> </div>
 

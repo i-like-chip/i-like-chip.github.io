@@ -35,7 +35,7 @@ Here is the final result:
 
 After checking the fit, I printed a second one!
 
-You can download the .stl here: [Knob](https://www.thingiverse.com/thing:7045167)
+You can download the .stl here: [Flower Knob (6mm D-Shaped Shaft)](https://www.thingiverse.com/thing:7045167)
 
 <div style="height: 1em"> </div>
 

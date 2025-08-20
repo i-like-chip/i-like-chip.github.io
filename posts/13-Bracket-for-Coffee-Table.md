@@ -19,7 +19,7 @@ The layers are compressed by the screws for best strength and durability.
 
 ![Bracket-2](./images/13-bracket3.JPG)
 
-You can download the .stl here: [Bracket](https://www.thingiverse.com/thing:7121202)
+You can download the .stl here: [90° Corner Bracket (for Myer coffee table)](https://www.thingiverse.com/thing:7121202)
 
 <div style="height: 1em"> </div>
 
