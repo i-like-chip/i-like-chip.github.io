@@ -1,7 +1,9 @@
 
+I decided that it would be cool to make a character - I'm thinking they will pop up and introduce the ambient scene, and maybe they could feature as a cushion on the sofa. Amby is a mix between a potato, cat, and a Chibi Totoro.
+
 ### Amby - Modelling and Animation
 
-I decided that it would be cool to have a mascot for the ambient youtube channel so I created Amby. This was my first time doing sub-division modelling, and doing animation in Blender. I used an image on the xz plane as a reference for modelling, and used the mirror modifier to position the ears, ayes, and arms.
+This was my first time doing sub-division modelling, and doing animation in Blender. I used an image on the xz plane as a reference for modelling, and used the mirror modifier to position the ears, eyes, and arms. The image I used was of a Chibi Totoro, becasue I liked the body shape and ears. They normally have something like a tail and bird-like feet which I left out, and added arms instead. The eyes are reminiscent of a pair of skinny lense sunglasses.
 
 ![amby](./images/10-amby-solid.PNG)
 
@@ -25,11 +27,11 @@ Here you can see how I've separated out the ears and nose and they now appear as
 
 ![amby-geo-nodes](./images/10-amby-holo-geo-nodes.PNG)
 
-Repeating this for each colour give this, which looks pretty cool!
+For each other colour I duplicated the array of glowing orbs, changed the colour, and selected the different components. Here's the result, it looks pretty cool!
 
 ![amby-holo](./images/10-amby-holo-2.gif)
 
-It is quite intensive for the computer as I am using four colours, which means there are four 3D arrays of glowing orbs occupying the same space, as you need a separate array for each colour. You could probably scale down the arrays so you have fewer 'pixels' that are not 'turned on.'
+I shrunk down Amby, and now I have a cute emoji to put next to the home button at the bottom of each page on my website :)
 
 <div style="height: 1em"> </div>
 

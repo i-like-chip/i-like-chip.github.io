@@ -33,7 +33,9 @@ Here is the final result:
 ![print-2.1](./images/12-knob-v2-top.png)
 ![print-2.2](./images/12-knob-v2-bottom.png)
 
-After making sure it fit nicely on the shaft I printed a second knob so my friend would have a matching pair!
+After checking the fit, I printed a second one!
+
+You can download the .stl here: [Knob](https://www.thingiverse.com/thing:7045167)
 
 <div style="height: 1em"> </div>
 

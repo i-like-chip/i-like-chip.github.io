@@ -19,6 +19,8 @@ The layers are compressed by the screws for best strength and durability.
 
 ![Bracket-2](./images/13-bracket3.JPG)
 
+You can download the .stl here: [Bracket](https://www.thingiverse.com/thing:7121202)
+
 <div style="height: 1em"> </div>
 
 ![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)
