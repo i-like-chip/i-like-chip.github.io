@@ -1,13 +1,13 @@
 
-After finding [this mod](https://www.thingiverse.com/thing:5303395) that relocates the power supply of the Ender 3, I decided to design a box for the front section of the printer. This will create a space for the Raspberry Pi which needs moved from it's box in the back, and gives a more cohesive aesthetic. Since updating my Ender 3 to Klipper firmware, I've exclusively been using Mainsail in the browser to wirelessly operate the printer. This makes the screen redundant, but it is nice to have the screen for monitoring purposes, and control if required. The brief therefore is to design a box that houses the motherboard, Raspberry Pi and buck convertor, and incorporates the screen into one of the lids which will be easily removable, and held in place with magnets.
-
-This is what the back looked like with the original Raspberry Pi box I found on Thingiverse.
-
-![Back](./images/15-pi-box-top.jpg)
+After finding [this mod](https://www.thingiverse.com/thing:5303395) that relocates the power supply of the Ender 3, I decided to design a box for the front section of the printer. This will create a space for the Raspberry Pi, which needs moved from it's box in the back, and gives a more cohesive aesthetic. Since updating my Ender 3 to Klipper firmware, I've exclusively been using Mainsail in the browser to wirelessly operate the printer. This makes the screen redundant, but it is nice to have the screen for monitoring purposes, and control if required. The brief therefore is to design a box that houses the motherboard, Raspberry Pi and buck convertor, and incorporates the screen into one of the lids which will be easily removable, and held in place with magnets.
 
 This is what the front looked like with the original motherboard box on the left, the blue thing is a drawer I found on Thingiverse, and off to the right hand side is the screen. At the back right you can see the power supply in it's original vertical postion.
 
 ![Front](./images/15-ender-3-front.png)
+
+This is what the back looked like with the original Raspberry Pi box I found on Thingiverse.
+
+![Back](./images/15-pi-box-top.jpg)
 
 To save on waste I decided to reuse the orange [fan duct](https://www.thingiverse.com/thing:2935204) for the motherboard fan.
 
@@ -17,7 +17,7 @@ I printed the parts for the power supply mod, and after installation the printer
 
 ![PSU Mod](./images/15-PSU-mod.JPG)
 
-I deconstructed everything at the front part of the printer to gain access to take measurements. I rewired the Raspberry Pi to sit at the front so the printer still functions, as I'll need it to print itself later!
+I deconstructed everything at the front of the printer to gain access to take measurements. I rewired the Raspberry Pi to sit at the front so the printer still functions, as it will need it to print parts for itself later!
 
 ![Front Deconstructed](./images/15-front-deconstructed.png)
 
@@ -65,6 +65,8 @@ Here's the final result!
 
 ![Final Top](./images/15-final-top.JPG)
 ![Final Bottom](./images/15-final-bottom.JPG)
+
+You can download the .stl files here:[Ender 3 (V1) Front Box with Removable Screen](https://www.thingiverse.com/thing:7164459)
 
 <div style="height: 1em"> </div>
 
