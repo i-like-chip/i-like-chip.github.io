@@ -65,9 +65,6 @@ Here's the final result!
 ![Final Top](./images/15-final-top.JPG)
 ![Final Bottom](./images/15-final-bottom.JPG)
 
-You can download the .stl here: [Ultimate Ender 3 (V1) Front Box - Klipper, Raspberry Pi ]()
-
-
 <div style="height: 1em"> </div>
 
 ![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)
