@@ -7,7 +7,7 @@ I designed the bracket to contour the wood at the corner joints.
 
 ![Bracket-1](./images/13-bracket2.JPG)
 
-Each bracket is mounted with 3x 16mm socket-head-cap screws, with 8.8mm diameter head.
+Each bracket is mounted with 3x 16mm truss-head screws, with 8.8mm diameter head.
 
 ![Bracket-2](./images/13-bracket4.JPG)
 
