@@ -2,6 +2,7 @@
 After finding [this mod](https://www.thingiverse.com/thing:5303395) that relocates the power supply of the Ender 3, I decided to design a box for the front section of the printer. This will create a space for the Raspberry Pi which needs moved from it's box in the back, and gives a more cohesive aesthetic. Since updating my Ender 3 to Klipper firmware, I've exclusively been using Mainsail in the browser to wirelessly operate the printer. This makes the screen redundant, but it is nice to have the screen for monitoring purposes, and control if required. The brief therefore is to design a box that houses the motherboard, Raspberry Pi and buck convertor, and incorporates the screen into one of the lids which will be easily removable, and held in place with magnets.
 
 This is what the back looked like with the original Raspberry Pi box I found on Thingiverse.
+
 ![Back](./images/15-pi-box-top.jpg)
 
 This is what the front looked like with the original motherboard box on the left, the blue thing is a drawer I found on Thingiverse, and off to the right hand side is the screen. At the back right you can see the power supply in it's original vertical postion.
