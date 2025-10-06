@@ -54,7 +54,11 @@ I designed the screen lid to work with this orange [back piece](https://www.thin
 To install the box: undo the y-axis belt tensioner, line up the t-nuts, lift up the motherboard, slide the box into place, then tighten the 2 bolts from underneath.
 
 ![Slide](./images/15-slide.JPG)
+<div style="height: 1em"> </div>
+
 ![Installed](./images/15-installed.JPG)
+<div style="height: 1em"> </div>
+
 ![Screen In](./images/15-screen-in.JPG)
 
 At this point everything was installed and working and I just needed to print the other lid and the extrusion end caps. As the screen was originally on the side of the printer, the ribbon cable is long enough that you can print with the screen lid out like this if required.
@@ -64,6 +68,8 @@ At this point everything was installed and working and I just needed to print th
 Here's the final result!
 
 ![Final Top](./images/15-final-top.JPG)
+<div style="height: 1em"> </div>
+
 ![Final Bottom](./images/15-final-bottom.JPG)
 
 You can download the .stl files here:[Ender 3 (V1) Front Box with Removable Screen](https://www.thingiverse.com/thing:7164459)
