@@ -39,7 +39,7 @@ I split the box in two, and designed clips so it can snap together.
 
 ![Halved](./images/15-halves.JPG)
 
-I printed the two halves and glued them together with super glue, before installing the magnets, Pi, buck convertor, original fan duct, and the other duct I designed and printed. You can see in this picture that I used a low profile 90° USB cable to connect the Pi and motherboard, as space was very limited.
+I printed the two halves and glued them together with super glue, before gluing in the magnets. and installing the Pi, buck convertor, original fan duct, and the other duct I designed and printed. You can see in this picture that I used a low profile 90° USB cable to connect the Pi and motherboard, as space was very limited.
 
 ![Pi Install](./images/15-pi-installed.JPG)
 
@@ -68,6 +68,9 @@ At this point everything was installed and working and I just needed to print th
 Here's the final result!
 
 ![Final Top](./images/15-final-top.JPG)
+<div style="height: 1em"> </div>
+
+![Final Screen Out](./images/15-print-with-screen-out.JPG)
 <div style="height: 1em"> </div>
 
 ![Final Bottom](./images/15-final-bottom.JPG)
