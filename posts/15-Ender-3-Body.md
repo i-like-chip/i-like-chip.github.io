@@ -36,7 +36,7 @@ The beam in the centre is shaped on the underside to split the intake air, but i
 
 I modelled the frame of the printer, and added in the PSU mod parts. The 2 lids fit snuggly, with the right one holding the screen. I made some end caps for the extrusions, modified from the back legs from the PSU mod.
 
-![Blender Top](./images/images/15-top-view.png)
+![Top View](./images/15-top-view.png)
 
 The front edge of the box is bevelled, so that the lids overhang to make it easier to remove them. The lids and end caps have a matching bevel for aesthetics.
 
@@ -44,7 +44,7 @@ The front edge of the box is bevelled, so that the lids overhang to make it easi
 
 On the bottom the fan duct mounts below the intake fan, and I designed another smaller fan duct for the exhaust fan. I also wanted easy access to the SD card in the Pi, so I made a cut-out for access.
 
-![Blender Bottom](./images/images/15-bottom-view.png)
+![Bottom View](./images/images/15-bottom-view.png)
 
 I designed clips on either side of the box so the two halves can be aligned and glued together easily.
 
