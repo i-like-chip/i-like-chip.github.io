@@ -16,5 +16,4 @@ After this I started thinking about how I might make some stars move past the wi
 
 I'm testing some things using this post, ignore these images below (lol)
 
-<img src="./images/1-box.png" alt="Box" width="300" height="200">
-<img src="./images/1-box.png" alt="Box" style="width:auto; height:50%;">
+<img src="./images/view2.PNG" alt="Box" style="height: 100%; width: 100%; object-fit: contain;">
