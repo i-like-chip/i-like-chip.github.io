@@ -12,6 +12,8 @@ A friend asked me to 3D print a replacement knob for their camping stove, as it 
 As it's for a camping stove I decided to go for a flower shape to fit the nature vibe. I mainly used Boolean modifiers to combine shapes, cut out the inside, and use the shaft model to cut out the D-shaped hole.
 
 ![knob-v1.1](./images/11-blender-knob-1.png)
+<div style="height: 1em"> </div>
+
 ![knob-v1.2](./images/11-blender-knob-2.png)
 
 I printed this knob but found that it was a little bit tight on the shaft that I printed earlier. I also wasn't happy with how sharp the edges were, and the mesh in Blender seemed very messy.
@@ -21,16 +23,22 @@ I printed this knob but found that it was a little bit tight on the shaft that I
 I tried to do some manual mesh editing but it proved difficult, so I ended up remodelling the whole object from scratch. I then used a method from [this video](https://youtu.be/sB68HUH87dk?si=vFysSH3rJOFzn7ug) to smooth the edges and improve the mesh - essentially you apply the modifiers Remesh, Smooth Corrective, then Decimate.
 
 ![knob-v2.1](./images/12-blender-knob-1.png)
+<div style="height: 1em"> </div>
+
 ![knob-v2.2](./images/12-blender-knob-2.png)
 
 In Prusaslicer I used concentric infill on the top and bottom layers for aesthetic reasons.
 
 ![prusa-1](./images/12-prusa-knob-1.png)
+<div style="height: 1em"> </div>
+
 ![prusa-2](./images/12-prusa-knob-2.png)
 
 Here is the final result:
 
 ![print-2.1](./images/12-knob-v2-top.png)
+<div style="height: 1em"> </div>
+
 ![print-2.2](./images/12-knob-v2-bottom.png)
 
 After checking the fit, I printed a second one!
