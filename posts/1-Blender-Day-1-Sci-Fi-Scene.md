@@ -5,7 +5,9 @@ I decided to make a Sci-fi scene, a room on a spaceship perhaps...
 
 I started by making a box using planes so I could remove individual walls and the ceiling for easier access to the interior. With a cylinder, I used the Boolean modifier in difference mode to punch a hole in one of the planes to make a window.
 
-![box](./images/1-box.png=100x200)
+![Box](./images/1-box.png)
+
+<img src="./images/1-box.png" alt="Box" width="300" height="200">
 
 After this I started thinking about how I might make some stars move past the window...
 
