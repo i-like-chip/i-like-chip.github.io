@@ -34,7 +34,7 @@ The beam in the centre is shaped on the underside to split the intake air, but i
 
 ![Middle Beam](./images/15-middle-beam.png)
 
-I modelled the frame of the printer, and added in the PSU mod parts. The 2 lids fit snuggly, with the right one holding the screen. I made some end caps for the extrusions, modified from the back legs from the PSU mod.
+I modelled the frame of the printer, and added in the PSU mod parts. The 2 lids fit snuggly, with the right one holding the screen. I made some end caps for the extrusions, modified from the back legs of the PSU mod.
 
 ![Top View](./images/15-top-view.png)
 
