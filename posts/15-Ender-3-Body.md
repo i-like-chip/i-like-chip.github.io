@@ -66,7 +66,7 @@ I printed the screen lid and installed the screen and magnets.
 
 ![Screen](./images/15-screen.JPG)
 
-I designed the screen lid to work with this orange [back piece](https://www.thingiverse.com/thing:2987100) that I printed for the original printer, but it was a tight fit above the Pi when wired in, so I ended up removing the back piece as it's not essential.
+I designed the screen lid to work with this orange [back piece](https://www.thingiverse.com/thing:2987100) that I printed for the original screen mount, but it was a tight fit above the Pi when wired in, so I ended up removing it as it's not essential.
 
 ![Screen Back](./images/15-screen-back.JPG)
 
