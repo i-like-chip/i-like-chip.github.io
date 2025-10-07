@@ -8,7 +8,7 @@ Our bird feeder wasn't hung in a good place, and the birds were having trouble u
 I made two videos showing how I made the hanger, which can be found on my Instagram.
 
 
-<img src="./images/view1.PNG" alt="Hanger" style="height: 40rem">
+<img src="./images/view1.PNG" alt="Hanger" style="height: 35rem">
 
 
 You can download the .stl files here:[Bird Feeder Hanger](https://www.thingiverse.com/thing:7165225)
