@@ -94,7 +94,7 @@ Here's the final result!
 
 ![Final Bottom](./images/15-final-bottom.JPG)
 
-You can download the .stl files here:[Ender 3 (V1) Front Box with Removable Screen](https://www.thingiverse.com/thing:7164459)
+You can download the .stl files here:[Ender 3 (V1) Front Box w. Detachable Screen + Optimised Air Flow](https://www.thingiverse.com/thing:7164459)
 
 <div style="height: 1em"> </div>
 
