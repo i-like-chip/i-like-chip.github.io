@@ -26,7 +26,6 @@ This is a pair of earrings my partner and I made together:
 
 <div style="height: 1em"> </div>
 
-This website is a clone of my brother's, so if you want to learn more about how it was made, check out this post on his blog: [Purescript-Web-Dev-Template](https://blog.grybiena.com/#2024-10-01-Purescript-Web-Dev-Template.md)
 
 Thanks for checking out i like chip,  
 Dee   
@@ -34,9 +33,11 @@ Dee
 <div style="height: 1em"> </div>
 
 ### Artist credits:  
+Website template: [Fraser](https://blog.grybiena.com/#2024-10-01-Purescript-Web-Dev-Template.md)
 'i like chip' cat: [Jeanclaude Browncloud](https://www.instagram.com/jeanclaude_browncloud/)  
 'i like computer' gnome: [Doge Core](https://www.dogecore.com/)  
 person eating fries: [Sara Hagale](https://www.shagey.com/)
+
 
 <div style="height: 1em"> </div>
 
