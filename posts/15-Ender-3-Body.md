@@ -20,7 +20,7 @@ I deconstructed everything at the front of the printer to gain access to take me
 
 ![Front Deconstructed](./images/15-front-deconstructed.png)
 
-The brief is to design a box that houses the motherboard, Raspberry Pi and buck convertor, and incorporates the screen into one of the lids which will be easily removable, and held in place with magnets.
+The brief is to design a box that houses the motherboard, Raspberry Pi, the Pi's buck convertor, and incorporates the screen into the design in a compact way. The design must incorporate the original motherboard fan and the Pi's fan for cooling.
 
 This is the layout, with motherboard on the left, and the Pi and buck convertor on the right. In the middle at the front is the intake fan (the original motherboard fan), which hits a splitter diverting the air equally between the Pi and motherboard. At the back behind a thin wall is the exhaust fan, from the Raspberry Pi. I thought it would be nice to try and optimise airflow to improve cooling, for printing fast!
 
