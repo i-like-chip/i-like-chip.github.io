@@ -5,7 +5,7 @@ Our bird feeder wasn't hung in a good place, and the birds were having trouble u
 
 ![Bird Feeder Hanger](./images/16-bird-feeder-hanger-2.PNG)
 
-I made a two videos showing how I made the hanger, which can be found on my Instagram.
+I made two videos showing how I made the hanger, which can be found on my Instagram.
 
 You can download the .stl files here:[Bird Feeder Hanger](https://www.thingiverse.com/thing:7165225)
 
