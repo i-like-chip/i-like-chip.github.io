@@ -7,10 +7,14 @@ I started by making a box using planes so I could remove individual walls and th
 
 ![Box](./images/1-box.png)
 
-<img src="./images/1-box.png" alt="Box" width="300" height="200">
 
 After this I started thinking about how I might make some stars move past the window...
 
 <div style="height: 1em"> </div>
 
 ![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)
+
+I'm testing some things using this post, ignore these images below (lol)
+
+<img src="./images/1-box.png" alt="Box" width="300" height="200">
+<img src="./images/1-box.png" alt="Box" style="width:auto; height:50%;">
