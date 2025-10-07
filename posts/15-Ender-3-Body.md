@@ -1,4 +1,4 @@
-I designed a mod for my Ender 3 (V1) which is both functional and improves aesthetics. Here's the before and after:
+I designed this body modification for my Ender 3 (V1) which is both functional and improves aesthetics. Here's the before and after:
 
 ![Before/After](./images/15-before-after.png)
 
