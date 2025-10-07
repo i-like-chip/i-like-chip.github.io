@@ -44,7 +44,7 @@ The front edge of the box is bevelled, so that the lids overhang to make it easi
 
 On the bottom the fan duct mounts below the intake fan, and I designed another smaller fan duct for the exhaust fan. I also wanted easy access to the SD card in the Pi, so I made a cut-out for access.
 
-![Bottom View](./images/images/15-bottom-view.png)
+![Bottom View](./images/15-bottom-view.png)
 
 I designed clips on either side of the box so the two halves can be aligned and glued together easily.
 
