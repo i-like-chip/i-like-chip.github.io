@@ -35,15 +35,15 @@ Here's the result as a .gif:
 
 ![stars going by 1hr](./images/9-stars-going-by-1hr.gif)
 
+You can watch the full video of the 1hr loop [here](https://www.youtube.com/embed/4QhsgCDJuzE).
+
+For my own reference more than anything: upload to YouTube took about 2hr and 45mins, so a 10hr version at that rate might take around 27.5hrs to upload.  
+
 Layering this version into the scene has a more relaxing feel to it and better suits an ambient video.  
 
 Here's the result as a .gif:
 
 ![scene with 1hr stars](./images/9-1hr-scene.gif)
-
-You can watch the full video of the 1hr loop [here](https://www.youtube.com/embed/4QhsgCDJuzE):
-
-For my own reference more than anything: upload to YouTube took about 2hr and 45mins, so a 10hr version at that rate might take around 27.5hrs to upload.  
 
 Here's an image of the scene in 4K resolution:
 
