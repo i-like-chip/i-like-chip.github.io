@@ -34,7 +34,6 @@ Dee
 
 ### Credits:  
 Website template: [Fraser](https://blog.grybiena.com/#2024-10-01-Purescript-Web-Dev-Template.md)
-
 'i like chip' cat: [Jeanclaude Browncloud](https://www.instagram.com/jeanclaude_browncloud/)  
 'i like computer' gnome: [Doge Core](https://www.dogecore.com/)  
 person eating fries: [Sara Hagale](https://www.shagey.com/)
