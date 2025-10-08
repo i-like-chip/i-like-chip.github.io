@@ -6,68 +6,48 @@
   , "date": "=]"
   , "post": "Dotoro.md"
   },
-  { "title": "1 - Blender Day 1 : Sci-Fi Scene [3D Art]"
+  { "title": "1 - Blender Day 1 : Sci-Fi Scene [3D Art][Animation]"
   , "date": "=]"
   , "post": "1-Blender-Day-1-Sci-Fi-Scene.md"
   },
-  { "title": "2 - Spinning Space : Sci-Fi Scene [Video Editing]"
+  { "title": "2 - A Scene from Scratch [3D Art]"
   , "date": "=]"
-  , "post": "2-Spinning-Photo-Space-Sci-Fi-Scene.md"
+  , "post": "2-A-Scene-from-Scratch.md"
   },
-  { "title": "3 - Video Plane & Lights : Sci-Fi Scene [3D Art]"
+  { "title": "3 - Modelling Assets : Sci-Fi Scene [3D Art]"
   , "date": "=]"
-  , "post": "3-Video-Plane-and-Lights-Sci-Fi-Scene.md"
+  , "post": "3-Modelling-Assets-Sci-Fi-Scene.md"
   },
-  { "title": "4 - A Scene from Scratch [3D Art]"
+  { "title": "4 - HD Stars : Sci-Fi Scene [3D Art]"
   , "date": "=]"
-  , "post": "4-A-Scene-from-Scratch.md"
+  , "post": "4-HD-Stars-Sci-Fi-Scene.md"
   },
-  { "title": "5 - Spaceship Assets : Sci-Fi Scene [3D Art]"
+  { "title": "5 - Amby [3D Animation]"
   , "date": "=]"
-  , "post": "5-Spaceship-Assets-Sci-Fi-Scene.md"
+  , "post": "5-Amby.md"
   },
-  { "title": "6 - Assets and Textures : Sci-Fi Scene [3D Art]"
+  { "title": "6 - Camping Stove Knob [Industrial Design] "
   , "date": "=]"
-  , "post": "6-Assets-and-Textures-Sci-Fi-Scene.md"
+  , "post": "6-Camping-Stove-Knob.md"
   },
-  { "title": "7 - Planter Assets : Sci-Fi Scene [3D Art]"
+  { "title": "7 - Spooky Things [3D Printing][REMIX]"
   , "date": "=]"
-  , "post": "7-Planter-Assets-Sci-Fi-Scene.md"
+  , "post": "7-Spooky-Things.md"
   },
-  { "title": "8 - Making It Lived-In : Sci-Fi Scene [3D Art]"
+  { "title": "8 - Bracket for Coffee Table [Industrial Design][3D Printing]"
   , "date": "=]"
-  , "post": "8-Making-It-Lived-In-Sci-Fi-Scene.md"
+  , "post": "8-Bracket-for-Coffee-Table.md"
   },
-  { "title": "9 - Spinning HDRI Space : Sci-Fi Scene [3D Art]"
+  { "title": "9 - Stained Glass Korok [3D Printing][REMIX]"
   , "date": "=]"
-  , "post": "9-Spinning-HDRI-Space-Sci-Fi-Scene.md"
+  , "post": "9-Stained-Glass-Korok.md"
   },
-  { "title": "10 - Amby [3D Animation]"
+  { "title": "10 - Ender 3 Body [3D Printer Design]"
   , "date": "=]"
-  , "post": "10-Amby.md"
+  , "post": "10-Ender-3-Body.md"
   },
-  { "title": "11 - Camping Stove Knob [Industrial Design][3D Printing] "
+  { "title": "11 - Bird Feeder Hanger [Industrial Design]"
   , "date": "=]"
-  , "post": "11-Camping-Stove-Knob.md"
-  },
-  { "title": "12 - Spooky Things [3D Printing][REMIX]"
-  , "date": "=]"
-  , "post": "12-Spooky-Things.md"
-  },
-  { "title": "13 - Bracket for Coffee Table [Industrial Design][3D Printing]"
-  , "date": "=]"
-  , "post": "13-Bracket-for-Coffee-Table.md"
-  },
-  { "title": "14 - Stained Glass Korok [3D Printing][REMIX]"
-  , "date": "=]"
-  , "post": "14-Stained-Glass-Korok.md"
-  },
-  { "title": "15 - Ender 3 Body [3D Printer Design]"
-  , "date": "=]"
-  , "post": "15-Ender-3-Body.md"
-  },
-  { "title": "16 - Bird Feeder Hanger [Industrial Design]"
-  , "date": "=]"
-  , "post": "16-Bird-Feeder-Hanger.md"
+  , "post": "11-Bird-Feeder-Hanger.md"
   }
 ]

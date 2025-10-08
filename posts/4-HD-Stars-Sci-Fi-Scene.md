@@ -1,5 +1,5 @@
 
-### Spinning an HDRI
+### Spinning HDRI Space
 
 My previous attempts to create the feeling of moving through space were not ideal, so I had the idea to rotate an HDRI through 360°, which should eliminate the spinning feeling with the previous videos. The HDRI is a large spherical image with the camera at the centre of the sphere, so as it rotates, the stars will drift through the viewport horizontlly, like looking out a side window of a spaceship travelling in a straight line.
 
@@ -11,13 +11,9 @@ Here's the result as a .gif:
 
 ![stars going by 10min](./images/9-stars-going-by-10min.gif)
 
-You can watch the full 4K video here:
+You can watch the full 4K video [here](https://www.youtube.com/embed/z6IF3eYsmPw):
 
-<iframe width="1000" height="315"
-src="https://www.youtube.com/embed/z6IF3eYsmPw">
-</iframe>
-
-The upload to YouTube took about 15mins, +70mins extra for 4K (I don't think it actually took this long).  
+For my reference: the upload to YouTube took about 15mins, +70mins extra for 4K (I don't think it actually took this long).  
 
 Exporting the render took a few hours, so I exported each frame individually into a folder in case Blender crashed. This required about 70GB free space. I composited the frames into a 4K video using the Blender video editor, I can't remember how long the render took, maybe an hour?
 
@@ -45,17 +41,15 @@ Here's the result as a .gif:
 
 ![scene with 1hr stars](./images/9-1hr-scene.gif)
 
-You can watch the full video of the 1hr loop here:
+You can watch the full video of the 1hr loop [here](https://www.youtube.com/embed/4QhsgCDJuzE):
 
-<iframe width="1000" height="315"
-src="https://www.youtube.com/embed/4QhsgCDJuzE">
-</iframe>
-
-The upload to YouTube took about 2hr and 45mins, so a 10hr version at that rate might take around 27.5hrs to upload.  
+For my own reference more than anything: upload to YouTube took about 2hr and 45mins, so a 10hr version at that rate might take around 27.5hrs to upload.  
 
 Here's an image of the scene in 4K resolution:
 
 ![full scene](./images/9-full-scene.png)
+
+I'm working on some ambient music to go with the scene using this [free modular synth](https://cardinal.kx.studio/), and have some ideas for animations to explore. The next post about this project will hopefully be the last!
 
 <div style="height: 1em"> </div>
 

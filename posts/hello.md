@@ -1,4 +1,4 @@
-## Welcome to 'i like chip' — a blog exploring design, digital art, 3D printing, and whatever else sparks my curiosity.
+## Welcome to 'i like chip' — a blog exploring design for digital and physical applications, and whatever else sparks my curiosity...
 
 I'm always making something, so I made this website to showcase some things I've made, and how I made them. I'm currently learning Blender, building another 3D printer, and working on music.
 
@@ -32,8 +32,9 @@ Dee
 
 <div style="height: 1em"> </div>
 
-### Artist credits:  
+### Credits:  
 Website template: [Fraser](https://blog.grybiena.com/#2024-10-01-Purescript-Web-Dev-Template.md)
+
 'i like chip' cat: [Jeanclaude Browncloud](https://www.instagram.com/jeanclaude_browncloud/)  
 'i like computer' gnome: [Doge Core](https://www.dogecore.com/)  
 person eating fries: [Sara Hagale](https://www.shagey.com/)
