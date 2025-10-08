@@ -110,8 +110,8 @@ profilePicture (About { profileImage }) =
     ]
     [ HH.img
         [ style do
-            max-width (100%)
-            max-height (200px)
+            max-width (% 100.0)
+            max-height (px 200.0)
         , HP.src profileImage
         ]
     ]
