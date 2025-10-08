@@ -1,6 +1,6 @@
 Our bird feeder wasn't hung in a good place, and the birds were having trouble using it, so I designed this hanger.
 
-<img src="./images/view1.PNG" alt="Hanger" style="height: 35rem">
+<img src="./images/view1.PNG" alt="Hanger" style="height: 35rem" class="center">
 <div style="height: 1em"> </div>
 
 <img src="./images/view2.PNG" alt="Hanger" style="height: 35rem">
