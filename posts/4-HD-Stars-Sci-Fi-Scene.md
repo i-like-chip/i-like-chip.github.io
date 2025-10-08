@@ -1,7 +1,7 @@
 
 ### Spinning HDRI Space
 
-My previous attempts to create the feeling of moving through space were not ideal, so I had the idea to rotate an HDRI through 360°, which should eliminate the spinning feeling with the previous videos. The HDRI is a large spherical image with the camera at the centre of the sphere, so as it rotates, the stars will drift through the viewport horizontlly, like looking out a side window of a spaceship travelling in a straight line.
+I had the idea to rotate an HDRI through 360° and record the output, which should give a more linear movement to the passing stars than in previous attempts. The HDRI is a large spherical image with the camera at the centre of the sphere, so as it rotates, the stars will appear to drift through the viewport from one side to the other.
 
 The HDRI was a free one on BlenderKit called 'Deep Dark Space with Stars' by EB Adventure Photoscans. In the shading tab I used keyframes to automate the rotation in the mapping node. Starting at 0° and finishing at 360° at frame 14,400 (10minutes at 24fps).
 
@@ -29,7 +29,7 @@ Here's the result as a .gif:
 
 ### Slowing Down
 
-I repeated the process of spinning the HDRI but this time over 1 hour, and at 30fps as I found out this is preferred by YouTube. The render required about 250GB of free space as there were 108,000 4K frames, it took about 16hrs.
+I repeated the process of spinning the HDRI but this time over 1 hour, and at 30fps for a smoother result. The render required about 250GB of free space as there were 108,000 4K frames, it took about 16hrs.
 
 Here's the result as a .gif:
 
@@ -37,9 +37,9 @@ Here's the result as a .gif:
 
 You can watch the full video of the 1hr loop [here](https://www.youtube.com/embed/4QhsgCDJuzE).
 
-For my own reference more than anything: upload to YouTube took about 2hr and 45mins, so a 10hr version at that rate might take around 27.5hrs to upload.  
+For my own reference: upload to YouTube took about 2hr and 45mins, so a 10hr version at that rate might take around 27.5hrs to upload.  
 
-Layering this version into the scene has a more relaxing feel to it and better suits an ambient video.  
+Layering this version into the scene has a more relaxing feel to it, it's pretty slow.  
 
 Here's the result as a .gif:
 
@@ -49,7 +49,7 @@ Here's an image of the scene in 4K resolution:
 
 ![full scene](./images/9-full-scene.png)
 
-I'm working on some ambient music to go with the scene using this [free modular synth](https://cardinal.kx.studio/), and have some ideas for animations to explore!
+I'm working on some ambient music to go with the scene using this [free modular synth](https://cardinal.kx.studio/), and have some ideas for other animations within the scene!
 
 <div style="height: 1em"> </div>
 
