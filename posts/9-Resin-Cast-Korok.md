@@ -17,7 +17,7 @@ Oh, I used glow in the dark fillament too!
 
 ![Korok](./images/14-korok-3.jpg)
 
-You can download the .stl here: [Stained Glass Korok - Plant Pot Remix ](https://www.thingiverse.com/thing:7121229)
+You can download the .stl here: [Resin Cast Korok - Plant Pot Remix ](https://www.thingiverse.com/thing:7121229)
 
 
 <div style="height: 1em"> </div>
