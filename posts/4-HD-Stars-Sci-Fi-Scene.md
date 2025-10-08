@@ -49,7 +49,7 @@ Here's an image of the scene in 4K resolution:
 
 ![full scene](./images/9-full-scene.png)
 
-I'm working on some ambient music to go with the scene using this [free modular synth](https://cardinal.kx.studio/), and have some ideas for animations to explore. The next post about this project will hopefully be the last!
+I'm working on some ambient music to go with the scene using this [free modular synth](https://cardinal.kx.studio/), and have some ideas for animations to explore!
 
 <div style="height: 1em"> </div>
 
