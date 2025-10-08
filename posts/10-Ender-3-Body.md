@@ -58,7 +58,7 @@ With the design complete I printed the two halves with supports for the central 
 
 ![Halved](./images/15-halves.JPG)
 
-I used super glue to bond the two halves, and glue in the magnets. I installed the Pi, buck convertor, and the two fans and their ducts. You can see in this picture that I used a low profile 90° USB cable to connect the Pi over to where the motherboard will be, as space was very limited.
+I used super glue to bond the two halves, and glue in the magnets. I installed the Pi, buck convertor, and the two fans and their ducts. You can see in this picture that I used a low profile 90° USB cable to connect the Pi over to where the motherboard will be, as space was very limited. This cable replaces the USB cable that used to stick out the front of the printer, and awkwardly trail around to the Raspberry Pi which was at the back.
 
 ![Pi Install](./images/15-pi-installed.JPG)
 
