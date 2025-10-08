@@ -67,7 +67,7 @@ render { posts, links, about } = HH.div
       padding (em 0.0) (em 1.0) (em 0.0) (em 1.0)
   ]
   [ -- header about,
-   profilePicture about 
+   profilePicture about
   , blurb about
   , renderLinks links
   , HH.h4 [] [ HH.text "Posts" ]
@@ -110,8 +110,8 @@ profilePicture (About { profileImage }) =
     ]
     [ HH.img
         [ style do
-            width (px 200.0)
-            height (px 200.0)
+            max-width (% 100)
+            max-height (px 200.0)
         , HP.src profileImage
         ]
     ]
