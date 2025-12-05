@@ -10,7 +10,7 @@ This is Amby, a character I designed:
 
 ![amby-holo](./images/10-amby-holo-2.gif)
 
-This is the current state of a spaceship scene I'm working on:
+Here is a spaceship scene I made:
 
 ![scene with 10min stars](./images/9-10min-scene.gif)
 
@@ -37,7 +37,8 @@ Dee
 'i like chip' cat: [Jeanclaude Browncloud](https://www.instagram.com/jeanclaude_browncloud/)  
 'i like computer' gnome: [Doge Core](https://www.dogecore.com/)  
 person eating fries: [Sara Hagale](https://www.shagey.com/)
-website template: [Fraser](https://blog.grybiena.com/#2024-10-01-Purescript-Web-Dev-Template.md)
+
+website template: [Frayja](https://blog.grybiena.com/#2024-10-01-Purescript-Web-Dev-Template.md)
 
 
 <div style="height: 1em"> </div>
