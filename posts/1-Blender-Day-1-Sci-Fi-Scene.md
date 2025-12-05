@@ -71,3 +71,4 @@ I downloaded BlenderKit and placed a rug and plant in the scene, then played aro
 <div style="height: 1em"> </div>
 
 ![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)
+<div style="height: 1em"> </div>

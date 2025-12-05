@@ -1,8 +1,8 @@
-## Welcome to 'i like chip' — a blog exploring design for digital and physical applications, and whatever else sparks my curiosity...
+## Welcome to 'i like chip' — a blog about things I've made
 
-I'm always making something, so I made this website to showcase some things I've made, and how I made them. I'm currently learning Blender, building another 3D printer, and working on music.
+I'm always making something, so I made this website to showcase some things I've made.
 
-Links to 3D print files, videos, music, and other things over there >>>>
+Links to 3D print files, videos, and other things over there >>>>
 
 ### Highlights
 
@@ -37,9 +37,10 @@ Dee
 'i like chip' cat: [Jeanclaude Browncloud](https://www.instagram.com/jeanclaude_browncloud/)  
 'i like computer' gnome: [Doge Core](https://www.dogecore.com/)  
 person eating fries: [Sara Hagale](https://www.shagey.com/)
-Website template: [Fraser](https://blog.grybiena.com/#2024-10-01-Purescript-Web-Dev-Template.md)
+website template: [Fraser](https://blog.grybiena.com/#2024-10-01-Purescript-Web-Dev-Template.md)
 
 
 <div style="height: 1em"> </div>
 
 ![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)
+<div style="height: 1em"> </div>

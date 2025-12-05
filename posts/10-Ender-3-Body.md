@@ -1,3 +1,4 @@
+
 I designed this body modification for my Ender 3 (V1) which is both functional and improves aesthetics. Here's the before and after:
 
 ![Before/After](./images/15-before-after.png)
@@ -99,3 +100,4 @@ You can download the .stl files here:[Ender 3 (V1) Front Box w. Detachable Scree
 <div style="height: 1em"> </div>
 
 ![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)
+<div style="height: 1em"> </div>

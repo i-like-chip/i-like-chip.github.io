@@ -24,3 +24,4 @@ You can download the .stl here: [90° Corner Bracket (for Myer coffee table)](ht
 <div style="height: 1em"> </div>
 
 ![Little Amby](./images/amby-little.gif)[i like chip](https://i-like-chip.github.io/)
+<div style="height: 1em"> </div>
