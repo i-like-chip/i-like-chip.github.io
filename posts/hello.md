@@ -1,6 +1,6 @@
 ## Welcome to 'i like chip' — a blog about things I've made
 
-Links to 3D print files, videos, and other things over there >>>>
+Links to posts, 3D print files, videos, and more over there >>>>
 
 ### Highlights
 
